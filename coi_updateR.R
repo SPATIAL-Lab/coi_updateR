@@ -1,10 +1,10 @@
-setwd("C:/Users/gjbowen/Dropbox/Hypomirror/CV/coi_update.R")
+setwd("C:/Users/u0133977/Dropbox/Hypomirror/CV/coi_updateR")
 library(textreadr)
 library(openxlsx)
 source("coi_functions.R")
 
 #open CV
-cv = read_docx("Bowen_CV_full.docx")
+cv = read_docx("../Bowen_CV_full.docx")
 
 #beginning of 4-year window
 ey = as.numeric(format(Sys.Date(), "%Y")) - 5
@@ -48,7 +48,7 @@ for(i in 1:length(peeps)){
 }
 
 #read in list of affiliations from current COI doc
-cois = read.xlsx("COI.xlsx")
+cois = read.xlsx("Bowen_COI.xlsx")
 
 #pull names from the existing COI file
 cois.nms = cois$`Name.of.the.individual.in.conflict.(Last,.First)`

@@ -1,185 +1,169 @@
-"","name","affiliation"
-"1","Abels, H. A.","Univ. Utrecht"
-"2","Addison, D. S.","Conservency of SW Florida"
-"3","Anderson, L.",NA
-"4","Anhäuser, T.","Univ. Heidelberg"
-"5","Baker, A.",NA
-"6","Baker, C. J. O.",NA
-"7","Baker, M. A.",NA
-"8","Bares, R.","Univ. Utah"
-"9","Barnes, M. L.",NA
-"10","Barnette, J. E.","Univ. Utah"
-"11","Bataille, C. P.","Univ. Ottawa"
-"12","Bekis, J.",NA
-"13","Ben-David, M.",NA
-"14","Benetti, M.","CNRS, France"
-"15","Birch, S. P.",NA
-"16","Bjorndal, K. A.","Univ. Florida"
-"17","Bloom, D.",NA
-"18","Bolten, A. B.","Univ. Florida"
-"19","Bonan, G.","NCAR"
-"20","Bowling, D. R.","Univ. Utah"
-"21","Brady, I. P.",NA
-"22","Brewer, S.","Univ. Utah"
-"23","Brooks, J. R.",NA
-"24","Brooks, P. D.","Univ. Utah"
-"25","Buenning, N. H.","Univ. Southern CA"
-"26","Buzon, M. R.",NA
-"27","Cai, Z.",NA
-"28","Casale, J. F.",NA
-"29","Cerling, T. E.","Univ. Utah"
-"30","Chau, T. H.",NA
-"31","Che, Y.",NA
-"32","Chen, F.",NA
-"33","Chesson, L. A.","Univ. Utah"
-"34","Cicero, C.",NA
-"35","Clyde, W. C.","Univ. New Hampshire"
-"36","Colman, B.","Duke Univ."
-"37","Cook, C. S.",NA
-"38","Cook, J. A.",NA
-"39","Cotton, J. M.",NA
-"40","Coulter, D. P.","Southern Illinois Univ."
-"41","Dee, S.",NA
-"42","Dharampal, P. S.",NA
-"43","Diefendorf, A. F.",NA
-"44","Dohm, M.",NA
-"45","Douthitt, C. B.",NA
-"46","Drits-Esser, D.","Univ. of Utah"
-"47","Du, M.",NA
-"48","Duffy, P.","Neptune & Co."
-"49","Dufour, A.","San Francisco Public Utilities"
-"50","Ehleringer, J. R.","Univ. Utah"
-"51","Eiriksson, D.",NA
-"52","Fernandez, D. P.","Univ. Utah"
-"53","Fiorella, R. P.",NA
-"54","Frederick, L. E.","Univ. Utah"
-"55","Freedman, D. R.","Hillside Middle School"
-"56","Fujisaki, I.","Univ. Florida"
-"57","Gabor, R. S.",NA
-"58","Gelderloos, A.",NA
-"59","Gingerich, P. D.","Univ. Michigan"
-"60","Good, S. P.","Univ. Utah"
-"61","Goodale, C. L.","Cornell Univ."
-"62","Gorski, G.","Univ. of Utah"
-"63","Graves, G.",NA
-"64","Greule, M.","Univ. Heidelberg"
-"65","Grimm, E.","Purdue Univ."
-"66","Gropp, R.",NA
-"67","Hall, S. J.","Iowa St. Univ."
-"68","Harrod, C.",NA
-"69","Hart, K. M.","USGS"
-"70","Hayden, B.",NA
-"71","Hinckley, E.-L. S.","NEON, Inc."
-"72","Hobson, K. A.","Univ. Saskatchewan"
-"73","Höök, T. O.","Purdue Univ."
-"74","Hopman, T.","Univ. Utrecht"
-"75","Houlton, B.","UC Davis"
-"76","Howa, J. D.",NA
-"77","Huntington, K. W.",NA
-"78","Hurley, J. M.",NA
-"79","Hyland, E.",NA
-"80","Jameel, Y.","Univ. Utah"
-"81","Jian, Z.","Tonji Univ., China"
-"82","Johnson, W. P.","Univ. Utah"
-"83","Jones, M. D.",NA
-"84","Jordan, C.","Univ. Texas"
-"85","Ju, S.-J.",NA
-"86","Kelson, J. R.",NA
-"87","Keppler, F.","Univ. Heidelberg"
-"88","Kraus, M. J.","Univ. Colorado"
-"89","Kreuzer, H. W.",NA
-"90","Kurita, N.","Nagoya Univ., Japan"
-"91","Lamont, M. M.","USGS"
-"92","Lauretano, V.",NA
-"93","Lin, J. C.","Univ. Utah"
-"94","Liu, X.",NA
-"95","Liu, Z.","Tongji Univ., China"
-"96","Lott, M. J.",NA
-"97","Lourens, L. J.","Univ. Utrecht"
-"98","Lowe, A.","Univ. Utah"
-"99","MacFadden, B.",NA
-"100","Maibauer, B. J.","Univ. Utah"
-"101","Malone, M.","Univ. of Utah"
-"102","Mancuso, C. J.","Univ. of Utah"
-"103","Mansfield, K. L.","Univ. Central Florida"
-"104","Marín-Spiotta, E.",NA
-"105","Martinelli, L. A.",NA
-"106","Miller, M.",NA
-"107","Millington, M.",NA
-"108","Millington, M. E.","Univ. Utah"
-"109","Neilson, B. T.",NA
-"110","Newsome, S. D.",NA
-"111","Noone, D. C.",NA
-"112","O’Grady, S. P.",NA
-"113","Oerter, E. J.",NA
-"114","Ogle, K.","Arizona St. Univ."
-"115","Ollinger, S. V.","Univ. New Hampshire"
-"116","Pajuelo, M.","Univ. Florida"
-"117","Pardyjak, E.","Univ. Utah"
-"118","Paul, E. A.","Colorado St. Univ."
-"119","Pauli, J. N.",NA
-"120","Perelet, A.","Univ. Utah"
-"121","Phillips, K. F.","Univ. Miami"
-"122","Podlesak, D. W.",NA
-"123","Poelen, J.",NA
-"124","Polag, D.","Univ. Heidelberg"
-"125","Poulsen, C. J.","Univ. Michigan"
-"126","Putman, A. L.","University of Utah"
-"127","Qiu, X.",NA
-"128","Ratnasingham, S.",NA
-"129","Reese, B. K.","Butler Middle School"
-"130","Remien, C. H.",NA
-"131","Reugg, S.",NA
-"132","Röhl, U.",NA
-"133","Roswell, C.","Purdue Univ."
-"134","Russell, L.",NA
-"135","Schrader, S. A.",NA
-"136","Shea, P.","Univ. Utah"
-"137","Siebert, G.",NA
-"138","Solomon, D. K.","Univ. Utah"
-"139","Soto, D. X.","Environment Canada"
-"140","Stark, L.","Univ. of Utah"
-"141","Steffan, S. A.",NA
-"142","Steimke, A.",NA
-"143","Stein, S.",NA
-"144","Stenten, C. J.","Draper Park Middle School"
-"145","Stout, T. L.",NA
-"146","Stricker, C. A.",NA
-"147","Strong, C.","Univ. Utah"
-"148","Suh, Y. J.",NA
-"149","Tang, Y.","Tongji Univ."
-"150","Tennant, H.",NA
-"151","Terry, S.",NA
-"152","Tian, L.",NA
-"153","Tingey, C. E.","Univ. Utah"
-"154","Tipple, B. J.","Univ. Utah"
-"155","Trauscht, J. S.","Univ. Utah"
-"156","Troy, C.","Purdue Univ."
-"157","Tucher, A. D.",NA
-"158","Tulley-Cordova, C. L.","Univ. Utah"
-"159","Uhen, M. D.",NA
-"160","Vala, D.","Murray High School"
-"161","Valenzuela, L. O.",NA
-"162","Van Wilgenberg, S. L.",NA
-"163","van Yperen, A. E.",NA
-"164","Vander Zanden, H. B.","Univ. of Utah"
-"165","Vitousek, P. M.","Stanford Univ."
-"166","Wang, L.",NA
-"167","Wang, S.",NA
-"168","Wassenaar, L. I.","Univ. Saskatchewan"
-"169","Watford, D.","Univ. Utah"
-"170","Weathers, K. C.","Cary Institute"
-"171","Weintraub, S. R.","NEON"
-"172","Welker, J. M.","Univ. Alaska, Anchorage"
-"173","West, J. B.","Texas A&M Univ."
-"174","Westerhold, T.","Univ. Bremen"
-"175","Wilkens, R.",NA
-"176","Williams, D. G.","Univ. Wyoming"
-"177","Wilson, A. E.","Auburn Univ."
-"178","Wing, S. L.","Smithsonian Inst."
-"179","Wunder, M. B.","Colorado State Univ."
-"180","Yarnes, C. T.",NA
-"181","Yoshimura, K.","Univ. Tokyo"
-"182","Zachos, J. C.","UC Santa Cruz"
-"183","Zhang, M.",NA
-"184","Zhao, G.",NA
+,name,affiliation
+1,"Gómez-Navarro, C.",Univ. Utah
+3,"Abels, H. A.",Univ. Utrecht
+4,"Anderson, L.",USGS
+5,"Anhäuser, T.",Univ. Heidelberg
+6,"Baker, A.",Univ. New South Wales
+7,"Baker, C. J. O.",Univ. New Brunswick
+8,"Baker, M. A.",Utah State Univ.
+9,"Bares, R.",Univ. Utah
+10,"Barnes, M. L.",Utah State Univ.
+11,"Barnette, J. E.",Univ. Utah
+12,"Bataille, C. P.",Univ. Ottawa
+13,"Bekis, J.",Navajo Nation Water Management Branch
+14,"Ben-David, M.",Univ. Wyoming
+15,"Birch, S. P.",Univ. Georgia
+16,"Bloom, D.",Univ. Florida
+17,"Bonan, G.",NCAR
+18,"Bowling, D. R.",Univ. Utah
+19,"Brady, I. P.",Navajo Nation Water Management Branch
+20,"Brewer, S.",Univ. Utah
+21,"Brooks, J. R.",US EPA
+22,"Brooks, P. D.",Univ. Utah
+23,"Buzon, M. R.",Purdue Univ.
+24,"Cai, Z.",Yunnan Univ.
+25,"Casale, J. F.",US DOJ
+26,"Cerling, T. E.",Univ. Utah
+27,"Chau, T. H.",PAE
+28,"Che, Y.","Northwest Normal Univ., China"
+29,"Chen, F.","Northwest Normal Univ., China"
+30,"Chesson, L. A.",PAE
+31,"Cicero, C.",UC Berkeley
+32,"Clyde, W. C.",Univ. New Hampshire
+33,"Colman, B.",Duke Univ.
+34,"Cook, C. S.",Univ.  Wyoming
+35,"Cook, J. A.",Univ. New Mexico
+36,"Cotton, J. M.",CSU Northridge
+37,"Coulter, D. P.",Southern Illinois Univ.
+38,"Courtiol, A.","Leibnitz Inst. Zoology, Germany"
+39,"Dee, S.",Rice Univ.
+40,"Dharampal, P. S.",Univ. Wisconsin
+41,"Diefendorf, A. F.",Univ. Cincinatti
+42,"Dohm, M.",Public Library Science
+43,"Douthitt, C. B.",Thermo Fisher
+44,"Drits-Esser, D.",Univ. of Utah
+45,"Du, M.","Northwest Normal Univ., China"
+46,"Duffy, P.",Neptune & Co.
+47,"Dufour, A.",San Francisco Public Utilities
+48,"Eglinton, T. I.",ETH Zurich
+49,"Ehleringer, J. R.",Univ. Utah
+50,"Eiriksson, D.",Univ. Utah
+51,"Fiorella, R. P.",Univ. Utah
+52,"Fischer-Femal, B.",NA
+53,"Gabor, R. S.",Ohio State Univ.
+54,"Gelderloos, A.",Univ. Utah
+55,"Gingerich, P. D.",Univ. Michigan
+56,"Good, S. P.",Oregon State Univ.
+57,"Goodale, C. L.",Cornell Univ.
+58,"Graves, G.",Smithsonian Inst.
+59,"Greule, M.",Univ. Heidelberg
+60,"Grimm, E.",Purdue Univ.
+61,"Gropp, R.",American Inst. Biological Sci.
+62,"Hall, S. J.",Iowa St. Univ.
+63,"Harrod, C.",Univ. Antofagasta
+64,"Hayden, B.",Univ. New Brunswick
+65,"Hinckley, E.-L. S.",Univ. Colorado Boulder
+66,"Hobson, K. A.","Western Univ., Canada"
+67,"Höök, T. O.",Purdue Univ.
+68,"Hopman, T.",Univ. Utrecht
+69,"Houlton, B.",UC Davis
+70,"Howa, J. D.","Isoforensics, Inc"
+71,"Huntington, K. W.",Univ. Washington
+72,"Hurley, J. M.",Univ. Utah
+73,"Hyland, E.",NC State Univ.
+74,"Jameel, Y.",Univ. Utah
+75,"Jian, Z.","Tonji Univ., China"
+76,"Jones, M. D.",Univ. Nottingham
+77,"Jordan, C.",Univ. Texas
+78,"Ju, S.-J.",Korea Inst. Ocean Sci. and Techology
+79,"Kelson, J. R.",Univ. Washington
+80,"Keppler, F.",Univ. Heidelberg
+81,"Kraus, M. J.",Univ. Colorado
+82,"Kreuzer, H. W.",Pacific NW National Lab
+83,"Lauretano, V.",Univ. Bristol
+84,"Lear, C. H.",NA
+85,"Lin, J. C.",Univ. Utah
+86,"Liu, X.","Northwest Normal Univ., China"
+87,"Liu, Z.","Tongji Univ., China"
+88,"Lott, M. J.","Isoforensics, Inc"
+89,"Lourens, L. J.",Univ. Utrecht
+90,"Lowe, A.",Univ. Utah
+91,"MacFadden, B.",Univ. Florida
+92,"Magozzi, S.",Univ. Utah
+93,"Malone, M.",Univ. Utah
+94,"Mancuso, C. J.",Univ. Utah
+95,"Marín-Spiotta, E.",Univ. Wisconsin
+96,"Martinelli, L. A.",Cena-Univ. Sao Paolo
+97,"McMahon, K. W.",Univ. Rhode Island
+98,"Miller, M. P.",USGS
+99,"Millington, M. E.",Univ. Utah
+100,"Neilson, B. T.",Utah State Univ.
+101,"Newsome, S. D.",Univ. New Mexico
+102,"Nielson, K. E.","Univ. Adelade, Australia"
+103,"Noone, D. C.",Oregon State Univ.
+104,"O’Grady, S. P.",Univ. Utah
+105,"Oerter, E. J.",Lawrence Livermor National Lab
+106,"Ogle, K.",Arizona St. Univ.
+107,"Ollinger, S. V.",Univ. New Hampshire
+108,"Pardyjak, E.",Univ. Utah
+109,"Pataki, D. E.",Univ. Utah
+110,"Paul, E. A.",Colorado St. Univ.
+111,"Pauli, J. N.",Univ. Wisconsin
+112,"Perelet, A.",Univ. Utah
+113,"Podlesak, D. W.",Los Alamos National Lab
+114,"Poelen, J.",Unaffiliated
+115,"Polag, D.",Univ. Heidelberg
+116,"Poulsen, C. J.",Univ. Michigan
+117,"Putman, A. L.",Univ. Utah
+118,"Qiu, X.","Northwest Normal Univ., China"
+119,"Ratnasingham, S.",Univ. Guelph
+120,"Reichart, G.-J.",NA
+121,"Remien, C. H.",Univ. Utah
+122,"Reugg, S.",Univ. Utah
+123,"Röhl, U.",Univ. Bremen
+124,"Roswell, C.",Purdue Univ.
+125,"Russell, L.",Univ. Florida
+126,"Schrader, S. A.",Leiden Univ.
+127,"Shea, P.",Univ. Utah
+128,"Siebert, G.",Univ. Utah
+129,"Sluijs, A.",NA
+130,"Soto, D. X.",Environment Canada
+131,"Stark, L.",Univ. of Utah
+132,"Steffan, S. A.",Univ. Wisconsin
+133,"Stein, S.",Purdue Univ.
+134,"Stout, T. L.",Utah State Univ.
+135,"Stricker, C. A.",USGS
+136,"Strong, C.",Univ. Utah
+137,"Suh, Y. J.",Korea Inst. Ocean Sci. and Techology
+138,"Tang, Y.",Tongji Univ.
+139,"Tennant, H.",Utah State Univ.
+140,"Terry, S.",Jordan Valley Water Conservation Dist.
+141,"Tian, L.",Yunnan Univ.
+142,"Tipple, B. J.",Univ. Utah
+143,"Troy, C.",Purdue Univ.
+144,"Trueman, C. N.",Univ. Southampton
+145,"Tulley-Cordova, C. L.",Univ. Utah
+146,"Uhen, M. D.",George Mason Univ.
+147,"Valenzuela, L. O.",Univ. Nacional de Buenos Aires
+148,"van Yperen, A. E.",Univ. Oslo
+149,"Vander Zanden, H. B.",Univ. of Utah
+150,"Vitousek, P. M.",Stanford Univ.
+151,"Voigt, C. C.","Leibnitz Inst. Zoology, Germany"
+152,"Wang, L.","Northwest Normal Univ., China"
+153,"Wang, S.","Northwest Normal Univ., China"
+154,"Wassenaar, L. I.",Intl. Atomic Energy Agency
+155,"Watford, D.",Univ. Utah
+156,"Weathers, K. C.",Cary Institute
+157,"Weintraub, S. R.",NEON
+158,"Welker, J. M.","Univ. Alaska, Anchorage"
+159,"West, J. B.",Texas A&M Univ.
+160,"Westerhold, T.",Univ. Bremen
+161,"Wilkens, R.",Univ. Hawaii
+162,"Williams, D. G.",Univ. Wyoming
+163,"Wilson, A. E.",Auburn Univ.
+164,"Wing, S. L.",Smithsonian Inst.
+165,"Wunder, M. B.",Colorado State Univ.
+166,"Yarnes, C. T.",UC Davis
+167,"Zachos, J. C.",UC Santa Cruz
+168,"Zhang, M.","Northwest Normal Univ., China"
+169,"Zhao, G.","Northwest Normal Univ., China"
