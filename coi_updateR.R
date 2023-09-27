@@ -1,10 +1,12 @@
 setwd("C:/Users/u0133977/Dropbox/Hypomirror/CV/coi_updateR")
-library(textreadr)
+#library(textreadr)
 library(openxlsx)
 source("coi_functions.R")
 
 #open CV
-cv = read_docx("../Bowen_CV_full.docx")
+cv = readLines("Bowen_CV_full.txt")
+#remove tabs from text
+cv = gsub("\t", " ", cv)
 
 #beginning of 4-year window
 ey = as.numeric(format(Sys.Date(), "%Y")) - 5
@@ -30,6 +32,9 @@ for(i in 1:length(pubs)){
   pub = pubs[i]
   peeps = getpeeps(pub, peeps)
 }
+
+#get rid of leading/trailing ws
+peeps = trimws(peeps)
 
 #get rid of replicates and alphabetize, and remove myself
 peeps = unique(peeps)
