@@ -1,4 +1,3 @@
-setwd("C:/Users/u0133977/Dropbox/Hypomirror/CV/coi_updateR")
 #library(textreadr)
 library(openxlsx)
 source("coi_functions.R")
@@ -56,11 +55,11 @@ for(i in 1:length(peeps)){
 cois = read.xlsx("Bowen_COI.xlsx")
 
 #pull names from the existing COI file
-cois.nms = cois$`Name.of.the.individual.in.conflict.(Last,.First)`
+cois.nms = cois$Name
 
 #find matches
 pcm = match(nm, cois.nms)
-afilis = cois$Institional.affiliation.of.the.conflict[pcm]
+afilis = cois$Affiliation[pcm]
 
 #wrap it up and save it
 coi.out = data.frame(name = nm, affiliation = afilis)

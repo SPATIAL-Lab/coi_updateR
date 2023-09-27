@@ -1,4 +1,4 @@
-Gabriel J. Bowen
+﻿Gabriel J. Bowen
 
 Geology & Geophysics Department
 University of Utah
@@ -15,96 +15,108 @@ Ph.D., Earth Sciences (12/03)
 B.S. with highest honors, Geological Sciences (4/99)
 
 Positions Held:
-07/16 � present 	University of Utah, Salt Lake City, Utah
+07/16 – present 	University of Utah, Salt Lake City, Utah
 		Professor, Geology and Geophysics
-Co-Director, Stable Isotope Facility for Environmental Research (SIRFER)
+Director, Stable Isotope Facility for Environmental Research (SIRFER)
 Member, Global Change and Sustainability Center
-07/12 � 06/16 	University of Utah, Salt Lake City, Utah
+07/12 – 06/16 	University of Utah, Salt Lake City, Utah
 		Associate Professor, Geology and Geophysics
 Co-Director, Stable Isotope Facility for Environmental Research (SIRFER)
 Member, Global Change and Sustainability Center
-08/10 � 06/12	Purdue University, West Lafayette, Indiana
+08/10 – 06/12	Purdue University, West Lafayette, Indiana
 Associate Professor, Earth and Atmospheric Sciences
 Co-Director, Purdue Stable Isotope Facility
 Member, Purdue Climate Change Research Center
-01/06 � 08/10	Purdue University, West Lafayette, Indiana
+01/06 – 08/10	Purdue University, West Lafayette, Indiana
 Assistant Professor, Earth and Atmospheric Sciences
 Co-Director, Purdue Stable Isotope Facility
 Member, Purdue Climate Change Research Center
-03/04 � 12/05	University of Utah, Salt Lake City, Utah
+03/04 – 12/05	University of Utah, Salt Lake City, Utah
 Postdoctoral Research Associate, Biology
-05/99 � 08/99	Conoco, Inc., Lafayette, Louisiana
+05/99 – 08/99	Conoco, Inc., Lafayette, Louisiana
 Geology and Geophysics Intern, Deepwater Exploration
 
-Grants and Contracts (lead proposer unless indicated, total = $14.5 million):
-08/21 � 07/25	Collaborative Proposal: CO2PIP: A Community Project to advance and standardize approaches to paleo-CO2 reconstruction and build the next-generation Phanerozoic record; $604,948 to Bowen; NSF; co-PI w/ Isabel Montanez, Univ. California Davis, and 7 others.
-01/19 � 04/24	Isoscapes for Human Provenance Supporting the Repatriation of Remains of American Armed Service Members; $3,549,392; Henry M. Jackson Foundation.
-08/18 � 07/22	Collaborative Research: MSB-ENSA: Leveraging NEON to Build a Predictive Cross-scale Theory of Ecosystem Transpiration; $1,809,001 ($875,624 to Univ. Utah); NSF.
-07/18 � 06/21	Collaborative Research: ABI Development: IsoBank: A centralized repository for isotopic data; $216,375 to Bowen; NSF; co-PI w/ Seth Newsome, Univ. New Mexico, and 2 others.
-12/17 � 10/20	NEON Aquatic Algal Chemistry Analysis at SIRFER Facility; $478,898; Battelle Memorial Institute.
-07/16 � 06/21	Collaborative Research: ABI Development: ORIGIN: Origin Inference from Geospatial Isotope Networks; $1,511,791 ($719,632 to Univ. Utah); NSF.
-07/15 � 06/20	P-E Land-C: Terrestrial Mediation of Carbon Cycle Response through the Paleocene-Eocene Thermal Maximum; $293,014; NSF.
-06/14 � 10/20 	NEON Water Isotope Analysis at the SIRFER Facility; ~$130,000; NEON Inc./Battelle Memorial Institute.
-09/13 � 08/17	MRI: Acquisition of an Isotope Ratio Mass Spectrometer for Tracing Human-Environment Interactions; $629,942; NSF.
-08/12 � 08/14	Linking Coastal Terrestrial Ecosystems and Eustatic Sea-Level Changes: A Case Study in the Tornillo Group (Big Bend National Park, TX); $100,000; ACS-PRF.
-02/12 � 08/18	Collaborative Research: Integrated Research for Continental Ecology (ITCE): Bridging Scales and Systems with Isotopes; $2,155,797 to Bowen; NSF; co-PI w/ Jim Ehleringer, Univ. of Utah, and 3 others. 
-01/11 � 12/13	The Role of Tributaries and River Plumes as Nursery Areas for Yellow Perch and Round Gobies in Lake Michigan; $384,973; Great Lakes Fisheries Trust; co-PI w/ Tomas H��k, Purdue, and 2 others.
-10/10 � 09/13	Collaborative Research: Bighorn Basin Coring Project (BBCP)-Targeted Continental Drilling of Paleogene Hyperthermals; $125,398 to Purdue Univ.; NSF; co-PI w/ William Clyde, Univ. of New Hampshire, and 7 others.
-07/10 � 06/12	Hydrological Controls on Nitrogen Dynamics in Artificially Drained Agricultural Watersheds; $75,000; Showalter Research Trust.
-02/10 � 01/13	Constructing the Nearshore Lake Michigan Food Web Using Multiple Trophic Indicators; $136,824 to Purdue Univ.; Great Lakes Seagrant; Co-PI w/ Tomas H��k, Purdue.
-08/09 � 07/13	Collaborative Research: Integrating proxies and Earth System Models to elucidate water cycle dynamics: Did global warming cause an enhanced hydrological cycle in the Eocene?; $472,346 to Purdue Univ.; NSF; Co-PI w/ Matthew Huber, Purdue, and Mark Pagani, Yale.
-07/09 � 06/15	Prediction and Validation of Water Supply Sensitivity through GIS-based Integration of Environmental, Demographic, and Stable Isotope Data; $359,987; DoD.
-06/09 � 05/10	Water Cycle Impacts of Paleocene-Eocene Greenhouse Warming in the Arid Southwestern U.S.A.; $16,750; Purdue Research Foundation.
-08/08 � 07/12	Enabling End-to-End Geospatial Data Modeling Workflows via INPort: The Isotope Networks Portal; $831,573; NSF.
-07/07 � 07/09	Geographic and Seasonal Variations in Stable Isotope Ratios of Water; $192,305 to Purdue; Univ. Utah/DoD; Co-PI w/ James Ehleringer, Univ. Utah.
-09/06 � 08/11	Holocene Water Balance of the Northeastern Great Basin; $401,894; NSF.
-09/06 � 08/09	Collaborative Research: Dynamics of Carbon Release and Sequestration: Case Studies of Two Early Eocene Hyperthermals; $179,989 to Purdue Univ.; NSF; co-PI w/ James Zachos, UCSC, and 7 others.
-07/06 � 08/08	A New Feedback on the Carbon Cycle Involving Clays and the Hydrologic Cycle and the Stabilization of Climate During the Paleocene-Eocene Thermal Maximum; $35,000; American Chemical Society.
-06/06 � 05/07	A Novel Paleo-drought Proxy Based on Multiple Stable Isotope Ratios from Brine Shrimp Chitin; $15,292; Purdue Research Foundation.
+Grants and Contracts (lead proposer unless indicated, total = $15.1 million):
+08/22 – 07/25	Collaborative Research: Defining the paleoclimate-fire relationship in CA across temporal scales through integrated monitoring, stalagmite studies, and proxy system modeling; $473,885 to Bowen; NSF; co-PI w/ Isabel Montanez, Univ. California Davis, and 6 others.
+08/21 – 07/25	Collaborative Proposal: CO2PIP: A Community Project to advance and standardize approaches to paleo-CO2 reconstruction and build the next-generation Phanerozoic record; $604,948 to Bowen; NSF; co-PI w/ Isabel Montanez, Univ. California Davis, and 7 others.
+01/19 – 04/24	Isoscapes for Human Provenance Supporting the Repatriation of Remains of American Armed Service Members; $3,549,392; Henry M. Jackson Foundation.
+08/18 – 07/23	Collaborative Research: MSB-ENSA: Leveraging NEON to Build a Predictive Cross-scale Theory of Ecosystem Transpiration; $1,897,851 ($964,474 to Univ. Utah); NSF.
+07/18 – 06/23	Collaborative Research: ABI Development: IsoBank: A centralized repository for isotopic data; $216,375 to Bowen; NSF; co-PI w/ Seth Newsome, Univ. New Mexico, and 2 others.
+12/17 – 10/22	NEON Aquatic Algal Chemistry Analysis at SIRFER Facility; $480,088; Battelle Memorial Institute.
+07/16 – 01/22	Collaborative Research: ABI Development: ORIGIN: Origin Inference from Geospatial Isotope Networks; $1,511,791 ($719,632 to Univ. Utah); NSF.
+07/15 – 06/20	P-E Land-C: Terrestrial Mediation of Carbon Cycle Response through the Paleocene-Eocene Thermal Maximum; $293,014; NSF.
+06/14 – 10/22 	NEON Water Isotope Analysis at the SIRFER Facility; ~$130,000; NEON Inc./Battelle Memorial Institute.
+09/13 – 08/17	MRI: Acquisition of an Isotope Ratio Mass Spectrometer for Tracing Human-Environment Interactions; $629,942; NSF.
+08/12 – 08/14	Linking Coastal Terrestrial Ecosystems and Eustatic Sea-Level Changes: A Case Study in the Tornillo Group (Big Bend National Park, TX); $100,000; ACS-PRF.
+02/12 – 08/18	Collaborative Research: Integrated Research for Continental Ecology (ITCE): Bridging Scales and Systems with Isotopes; $2,155,797 to Bowen; NSF; co-PI w/ Jim Ehleringer, Univ. of Utah, and 3 others. 
+01/11 – 12/13	The Role of Tributaries and River Plumes as Nursery Areas for Yellow Perch and Round Gobies in Lake Michigan; $384,973; Great Lakes Fisheries Trust; co-PI w/ Tomas Höök, Purdue, and 2 others.
+10/10 – 09/13	Collaborative Research: Bighorn Basin Coring Project (BBCP)-Targeted Continental Drilling of Paleogene Hyperthermals; $125,398 to Purdue Univ.; NSF; co-PI w/ William Clyde, Univ. of New Hampshire, and 7 others.
+07/10 – 06/12	Hydrological Controls on Nitrogen Dynamics in Artificially Drained Agricultural Watersheds; $75,000; Showalter Research Trust.
+02/10 – 01/13	Constructing the Nearshore Lake Michigan Food Web Using Multiple Trophic Indicators; $136,824 to Purdue Univ.; Great Lakes Seagrant; Co-PI w/ Tomas Höök, Purdue.
+08/09 – 07/13	Collaborative Research: Integrating proxies and Earth System Models to elucidate water cycle dynamics: Did global warming cause an enhanced hydrological cycle in the Eocene?; $472,346 to Purdue Univ.; NSF; Co-PI w/ Matthew Huber, Purdue, and Mark Pagani, Yale.
+07/09 – 06/15	Prediction and Validation of Water Supply Sensitivity through GIS-based Integration of Environmental, Demographic, and Stable Isotope Data; $359,987; DoD.
+06/09 – 05/10	Water Cycle Impacts of Paleocene-Eocene Greenhouse Warming in the Arid Southwestern U.S.A.; $16,750; Purdue Research Foundation.
+08/08 – 07/12	Enabling End-to-End Geospatial Data Modeling Workflows via INPort: The Isotope Networks Portal; $831,573; NSF.
+07/07 – 07/09	Geographic and Seasonal Variations in Stable Isotope Ratios of Water; $192,305 to Purdue; Univ. Utah/DoD; Co-PI w/ James Ehleringer, Univ. Utah.
+09/06 – 08/11	Holocene Water Balance of the Northeastern Great Basin; $401,894; NSF.
+09/06 – 08/09	Collaborative Research: Dynamics of Carbon Release and Sequestration: Case Studies of Two Early Eocene Hyperthermals; $179,989 to Purdue Univ.; NSF; co-PI w/ James Zachos, UCSC, and 7 others.
+07/06 – 08/08	A New Feedback on the Carbon Cycle Involving Clays and the Hydrologic Cycle and the Stabilization of Climate During the Paleocene-Eocene Thermal Maximum; $35,000; American Chemical Society.
+06/06 – 05/07	A Novel Paleo-drought Proxy Based on Multiple Stable Isotope Ratios from Brine Shrimp Chitin; $15,292; Purdue Research Foundation.
 07/06	Towards an Integrative, Web-Based Data Analysis Tool for Water Isotope Networks at Purdue; $7,000; Purdue Research Foundation.
 
 Awards:
+03/23	Excellence in Research Award, College of Science, University of Utah
 08/19	Distinguished Visiting Fellowship, State Key Laboratory of Marine Geology, Tongji University
 04/16	Fellow, Geological Society of America
 11/14	Fellow, Kavli Frontiers of Science
 12/12	Fellow, American Geophysical Union
 12/12	James B. Macelwane Medal, American Geophysical Union
-05/07 � 05/12	Teaching Honor Roll, Earth and Atmospheric Sciences, Purdue University
+05/07 – 05/12	Teaching Honor Roll, Earth and Atmospheric Sciences, Purdue University
 06/00	Graduate Research Fellowship, National Science Foundation
 10/99	Case Award for Attainment in Research, University of Michigan
-09/99	Regent�s Fellowship, University of California, Santa Cruz
+09/99	Regent’s Fellowship, University of California, Santa Cruz
 09/99	Educational Advancement Scholarship, Conoco, Inc.
 04/99	Highest Honors in Geological Sciences, University of Michigan
 
-Publications in Press (*postdoc or student author):
-
-Journal Publications (https://scholar.google.com/citations?user=N8vn4BcAAAAJ&hl=en):
-148.	Brooks P. D., Gelderloos A., Wolf M. A., Jamison L. R., Strong C., Solomon D. K., Bowen G. J., Burian S., Tai X., Arens S., Briefer L., Kirkham T. and Stewart J. (2021) Groundwater-mediated memory of past climate controls water yield in snowmelt-dominated catchments. Water Resources Research, 57, e2021WR030605. doi:10.1029/2021WR030605.
-147.	Denis E. H., Maibauer B. J.*, Bowen G. J., Jardine P. E., Harrington G. J., Baczynski A. A., McInerney F. A., Collinson M. E., Belcher C. M., Wing S. L. and Freeman K. H. (2021) Decreased soil carbon in a warming world: Degraded pyrogenic carbon during the Paleocene-Eocene Thermal Maximum, Bighorn Basin, Wyoming. Earth and Planetary Science Letters, 566, 116970. doi:10.1016/j.epsl.2021.116970.
-146.	Finkenbiner C. E., Good S. P., Allen S. T.*, Fiorella R. P. and Bowen G. J. (2021) A statistical method for generating temporally downscaled geochemical tracers in precipitation. Journal of Hydrometeorology, 22, 1473-1486. doi:10.1175/JHM-D-20-0142.1.
-145.	Fiorella R. P, Good S. P., Allen S. T.*, Guo J. S.*, Still C. J., Noone D. C., Anderegg W. L., Florian C. R., Luo H., Pingintha-Durden N. and Bowen G. J. (2021) Calibration strategies for detecting macroscale patterns in NEON atmospheric carbon isotope observations. Journal of Geophysical Research, 126, e2020JG005862. doi:10.1029/2020JG005862.
-144.	Fischer-Femal B. J.* and Bowen G. J. (2021) Coupled carbon and oxygen isotope model for pedogenic carbonates. Geochimica et Cosmochimica Acta, 294, 126-144. doi:10.1016/j.gca.2020.10.022.
-143.	Li Y., Tian L., Bowen G. J., Wu Q., Luo W., Chen Y., Wang D., Shao L., Cai Z. and Tao J. (2021) Deep lake water balance by dual water isotopes in Yungui Plateau, southwest China. Journal of Hydrology, 593, 125886. doi:10.1016/j.jhydrol.2020.125886.
-142.	Liu Z., Risi C., Codron F., He X., Poulsen C. J., Wei Z., Chen D., Li S. and Bowen G. J. (2021) Acceleration of western Arctic sea ice loss linked to the Pacific North American pattern. Nature Communications, 12. doi:10.1038/s41467-021-21830-z.
-141.	Magozzi S.*, Bataille C. P., Hobson K. A., Wunder M. B., Howa J. D., Contina A., Vander Zanden H. B. and Bowen G. J. (2021) Calibration chain transformation improves the comparability of organic hydrogen and oxygen stable isotope data. Methods in Ecology and Evolution, 12, 732-747. doi:10.1111/2041-210X.13556.
-140.	Putman A. L.*, Bowen G. J. and Strong C. (2021) Local and regional modes of hydroclimatic change expressed in modern multidecadal precipitation oxygen isotope trends. Geophysical Research Letters, 48, e2020GL092006. doi:10.1029/2020GL092006.
-139.	Scott W. T., Contreras S., Bowen G. J., Arnold T. E., Bustamante-Ortega R. and Werne J. P. (2021) Lake water based isoscape from central-south Chile reflects meteoric water. Scientific Reports, 11, 8725. doi:10.1038/s41598-021-87566-4.
-138. Shah J. J. F, Bares R., Bowen B. B., Bowen G. J., Bowling D. R., Eiriksson D. P., Fasoli B., Fiorella R. P., Hallar A. G., Hinners S. J., Horel J. D., Jacques A. A., Jamison L. R., Lin J. C., Mendoza D. L., Mitchell L. E., Pataki D. E., Skiles S. M., Smith R. M., Wolf M. A. and Brooks P. D. (2021) The Wasatch Environmental Observatory: A mountain to urban research network in the semi-arid western US. Hydrological Processes, 35, e14352. doi:10.1002/hyp.14352.
-137.	Windler G., Brooks J. R., Johnson H. M., Comeleo R. L., Coulombe R. and Bowen G. J. (2021) Climate impacts on source contributions and evaporation to flow in the Snake River Basin using surface water isoscapes (?2H and ?18O). Water Resources Research, 57, e2020WR029157. doi:10.1029/2020WR029157.
+Journal Publications (https://scholar.google.com/citations?user=N8vn4BcAAAAJ&hl=en; *postdoc or student author):
+160.	Li B., Good S. P., Fiorella R. P., Finkenbiner C. E., Bowen G. J., Noone D. C., Still C. J. and Anderegg W. R. L. (2023) Stable isotopes contain substantial additive information about terrestrial carbon and water cycling. Environmental Research Letters, 18, 094065. doi:10.1088/1748-9326/acf4ab.
+159.	Wang D., Tian L., Risi C., Wang X., Cui J., Bowen G. J., Yoshimura K., Wei Z. and Li L. Z. X. (2023) Vehicle-based in-situ observations of the water vapor isotopic composition across China: spatial and seasonal distributions and controls. Atmospheric Chemistry and Physics, 23, 3409-3433. doi:10.5194/acp-23-3409-2023.
+158.	Zhang J., Yu W., Lewis S., Thompson L. G., Bowen G. J., Yoshimura K., Cauquoin A., Werner M., Chakraborty S., Jing Z., Ma Y., Guo X., Xu B., Wu G., Guo R. and Qu D. (2023) Controls on stable water isotopes in monsoonal precipitation across the Bay of Bengal: Atmosphere and surface analysis. Geophysical Research Letters, 50, e2022GL102229. doi:10.1029/2022GL102229.
+157.	Bataille C. P., Ammer S. T. M., Bhuiyan S., Chartrand M. M. G., St-Jean G. and Bowen G. J. (2022) Multi-isotopes in human hair: A tool to initiate cross-border collaboration in international cold-cases. PLoS ONE, 17(10), e0275902. doi:10.1371/journal.pone.0275902.
+156.	Bowen G. J., Guo J. S.* and Allen S. T.* (2022) A 3-D groundwater isoscape of the contiguous USA for forensic and water resource science. PLoS ONE, 17(1), e0261651. doi:10.1371/journal.pone.0261651.
+155.	Contina A., Magozzi S.*, Vander Zanden H. B., Bowen G. J. and Wunder M. B. (2022) Optimizing stable isotope sampling design in terrestrial movement ecology research. Methods in Ecology and Evolution, 13, 1237-1249. doi: 10.1111/2041-210X.13840.
+154.	Finkenbiner C. E., Li B., Spencer L., Butler Z., Haagsma M., Fiorella R. P., Allen S. T., Anderegg W., Still C. J., Noone D., Bowen G. J. and Good S. P. (2022) The NEON Daily Isotopic Composition of Environmental Exchanges Dataset. Scientific Data, 9, 353. doi:10.1038/s41597-022-01412-4.
+153.	Foley C. J, Bowen G. J. and Höök T. O. (2022) Variability in fish and water hydrogen and oxygen stable isotope values in the nearshort region of a large water body. Journal of Great Lakes Research, 48, 1239-1247. doi:10.1016/j.jglr.2022.08.006.
+152.	Hawkins L. R., Bassouni M., Anderegg W. R. L., Venturas M. D., Good S. P., Kwon H. J., Hanson C. V., Fiorella R. P., Bowen G. J. and Still C. J. (2022) Comparing model representations of physiological limits on transpiration at a semi-arid ponderosa pine site. Journal of Advances in Modeling Earth Systems, 14, e2021MS002927. doi:10.1029/2021MS002927.
+151.	Liu Z., Risi C., Codron F., Jian Z., Wei Z., He X., Poulsen C. J., Wang Y., Chen D., Ma W., Cheng Y. and Bowen G. J (2022) Atmospheric forcing dominates winter Barents-Kara sea ice variability on interannual to decadal time scales. Proceedings of the National Academy of Sciences, 119, p.e2120770119. doi:10.1073/pnas.2120770119.
+150.	Yang D.* and Bowen G. J. (2022) Integrating plant wax abundance and isotopes for paleovegetation and paleoclimate reconstructions: A multi-source mixing model using a Bayesian framework. Climate of the Past, 18, 2181-2210. doi:10.5194/cp-18-2181-2022.
+149.	Brooks P. D., Gelderloos A., Wolf M. A., Jamison L. R., Strong C., Solomon D. K., Bowen G. J., Burian S., Tai X., Arens S., Briefer L., Kirkham T. and Stewart J. (2021) Groundwater-mediated memory of past climate controls water yield in snowmelt-dominated catchments. Water Resources Research, 57, e2021WR030605. doi:10.1029/2021WR030605.
+148.	Denis E. H., Maibauer B. J.*, Bowen G. J., Jardine P. E., Harrington G. J., Baczynski A. A., McInerney F. A., Collinson M. E., Belcher C. M., Wing S. L. and Freeman K. H. (2021) Decreased soil carbon in a warming world: Degraded pyrogenic carbon during the Paleocene-Eocene Thermal Maximum, Bighorn Basin, Wyoming. Earth and Planetary Science Letters, 566, 116970. doi:10.1016/j.epsl.2021.116970.
+147.	Finkenbiner C. E., Good S. P., Allen S. T.*, Fiorella R. P. and Bowen G. J. (2021) A statistical method for generating temporally downscaled geochemical tracers in precipitation. Journal of Hydrometeorology, 22, 1473-1486. doi:10.1175/JHM-D-20-0142.1.
+146.	Fiorella R. P, Good S. P., Allen S. T.*, Guo J. S.*, Still C. J., Noone D. C., Anderegg W. L., Florian C. R., Luo H., Pingintha-Durden N. and Bowen G. J. (2021) Calibration strategies for detecting macroscale patterns in NEON atmospheric carbon isotope observations. Journal of Geophysical Research, 126, e2020JG005862. doi:10.1029/2020JG005862.
+145.	Fischer-Femal B. J.* and Bowen G. J. (2021) Coupled carbon and oxygen isotope model for pedogenic carbonates. Geochimica et Cosmochimica Acta, 294, 126-144. doi:10.1016/j.gca.2020.10.022.
+144.	Li Y., Tian L., Bowen G. J., Wu Q., Luo W., Chen Y., Wang D., Shao L., Cai Z. and Tao J. (2021) Deep lake water balance by dual water isotopes in Yungui Plateau, southwest China. Journal of Hydrology, 593, 125886. doi:10.1016/j.jhydrol.2020.125886.
+143.	Liu Z., Risi C., Codron F., He X., Poulsen C. J., Wei Z., Chen D., Li S. and Bowen G. J. (2021) Acceleration of western Arctic sea ice loss linked to the Pacific North American pattern. Nature Communications, 12. doi:10.1038/s41467-021-21830-z.
+142.	Magozzi S.*, Bataille C. P., Hobson K. A., Wunder M. B., Howa J. D., Contina A., Vander Zanden H. B. and Bowen G. J. (2021) Calibration chain transformation improves the comparability of organic hydrogen and oxygen stable isotope data. Methods in Ecology and Evolution, 12, 732-747. doi:10.1111/2041-210X.13556.
+141.	Putman A. L.*, Bowen G. J. and Strong C. (2021) Local and regional modes of hydroclimatic change expressed in modern multidecadal precipitation oxygen isotope trends. Geophysical Research Letters, 48, e2020GL092006. doi:10.1029/2020GL092006.
+140.	Scott W. T., Contreras S., Bowen G. J., Arnold T. E., Bustamante-Ortega R. and Werne J. P. (2021) Lake water based isoscape from central-south Chile reflects meteoric water. Scientific Reports, 11, 8725. doi:10.1038/s41598-021-87566-4.
+139. Shah J. J. F, Bares R., Bowen B. B., Bowen G. J., Bowling D. R., Eiriksson D., Fasoli B., Fiorella R. P., Hallar A. G., Hinners S. J., Horel J. D., Jacques A. A., Jamison L. R., Lin J. C., Mendoza D. L., Mitchell L. E., Pataki D. E., Skiles S. M., Smith R. M., Wolf M. A. and Brooks P. D. (2021) The Wasatch Environmental Observatory: A mountain to urban research network in the semi-arid western US. Hydrological Processes, 35, e14352. doi:10.1002/hyp.14352.
+138.	Tulley-Cordova C. L.*, Putman A. L.* and Bowen G. J. (2021) Stable isotopes in precipitation and meteoric water: Sourcing and tracing the North American monsoon in Arizona, New Mexico, and Utah. Water Resources Research, e2021WR030039. doi:10.1029/2021WR030039.
+137.	Windler G., Brooks J. R., Johnson H. M., Comeleo R. L., Coulombe R. and Bowen G. J. (2021) Climate impacts on source contributions and evaporation to flow in the Snake River Basin using surface water isoscapes (δ2H and δ18O). Water Resources Research, 57, e2020WR029157. doi:10.1029/2020WR029157.
 136.	Woo J., Zhao L. and Bowen G. J. (2021) Streamlining geospatial data processing for isotopic landscape modeling. Concurrency and Computation Practice and Experience, 33, e6324. doi:10.1002/cpe.6324.
 135.	Bataille C. P., Crowley B. E., Wooller M. J. and Bowen G. J. (2020) Advances in global bioavailable strontium isoscapes. Palaeogeography, Palaeoclimatology, Palaeoecology, 555, 109849. doi:10.1016/j.palaeo.2020.109849.
 134.	Bowen G. J., Fischer-Femal B. J.*, Reichart G.-J., Sluijs A. and Lear C. H. (2020) Joint inversion of proxy system models to reconstruct paleoenvironmental time series from heterogeneous data. Climate of the Past, 16, 65-78. doi:10.5194/cp-16-65-2020.
 133.	Havranek R. E., Snell K. E., Davidheiser-Kroll B., Bowen G. J. and Vaughn B. (2020) The Soil Water Isotope Storage System (SWISS): An integrated soil water vapor sampling and multiport storage system for stable isotope geochemistry. Rapid Communications in Mass Spectrometry, 34, e8783. doi:10.1002/rcm.8783.
 132.	Lyons B., Foley K., Carey A., Diaz M., Bowen G. J. and Cerling T. E. (2020) The isotopic geochemistry of CaCO3 encrustations in Taylor Valley, Antarctica: Implications for their origin. Acta Geographica Slovenica, 60, 125-139. doi:10.3986/ags.7233.
-131. Ma C.*, Vander Zanden H. B., Wunder M. B. and Bowen G. J. (2020) assignR: An R package for isotope?based geographic assignment. Methods in Ecology and Evolution, 11, 996-1001. doi:10.1111/2041-210X.13426. 
+131. Ma C.*, Vander Zanden H. B., Wunder M. B. and Bowen G. J. (2020) assignR: An R package for isotope‐based geographic assignment. Methods in Ecology and Evolution, 11, 996-1001. doi:10.1111/2041-210X.13426. 
 130. Magozzi S.*, Vander Zanden H. B., Wunder M. B., Trueman C. N., Pinney K., Peers D., Dennison P. E., Horns J. J., Sekercioglu C. H. and Bowen G. J. (2020) Combining models of environment, behavior, and physiology to predict tissue hydrogen and oxygen isotope variance among individual terrestrial animals. Frontiers in Ecology and Evolution, 8, 536109. doi: 10.3389/fevo.2020.536109
-129.	Senegal T., Ruetz III C. R., Chorak G. M., Janetski D. J., Clapp D. F., Bowen G. J. and H��k T. O. (2020) Differential habitat use patterns of yellow perch Perca flavescens in eastern Lake Michigan and connected drowned river mouth lakes. Journal of Great Lakes Research, 46, 1412-1422. doi:10.1016/j.jglr.2020.06.021.
+129.	Senegal T., Ruetz III C. R., Chorak G. M., Janetski D. J., Clapp D. F., Bowen G. J. and Höök T. O. (2020) Differential habitat use patterns of yellow perch Perca flavescens in eastern Lake Michigan and connected drowned river mouth lakes. Journal of Great Lakes Research, 46, 1412-1422. doi:10.1016/j.jglr.2020.06.021.
 128.	Bowen G. J., Cai Z.*, Fiorella R. P.* and Putman A. L.* (2019) Isotopes in the Water Cycle: Regional- to Global-Scale Patterns and Applications. Annual Review of Earth and Planetary Sciences, 47, 453-479. doi:10.1146/annurev-earth-053018-060220.
 127.	Bowen G. J., Nielson K. E.* and Eglinton T. I. (2019) Multi-substrate radiocarbon data constrain detrital and reservoir effects in Holocene sediments of the Great Salt Lake, UT. Radiocarbon, 61, 905-926. doi:10.1017/RDC.2019.62.
 126.	Cai Z.*, Tian L. and Bowen G. J. (2019) Influence of recent climate shifts on the relationship between ENSO and Asian Monsoon precipitation oxygen isotope ratios. Journal of Geophysical Research, 124, 7825-7835. doi:10.1029/2019JD30383.
 125.	Fiorella R. P.*, Bares R., Lin J. C. and Bowen G. J. (2019) Wintertime decoupling of urban valley and rural ridge hydrological processes revealed through stable water isotopes. Atmospheric Environment, 213, 337-348. doi:10.1016/j.atmosenv.2019.06.022.
 124.	Fiorella R. P.*, West J. B. and Bowen G. J. (2019) Biased estimates of the isotope ratios of steady-state evaporation from the assumption of equilibrium between vapor and precipitation. Hydrological Processes, 33, 2576-2590. doi:10.1002/hyp.13531.
-123. G�mez-Navarro C., Pataki D. E., Bowen G. J. and Oerter E. J. (2019) Spatiotemporal variability in water sources of urban soils and trees in the semiarid, irrigated Salt Lake Valley. Ecohydrology, 12, e2154. doi:10.1002/eco.2154.
+123. Gómez-Navarro C., Pataki D. E., Bowen G. J. and Oerter E. J. (2019) Spatiotemporal variability in water sources of urban soils and trees in the semiarid, irrigated Salt Lake Valley. Ecohydrology, 12, e2154. doi:10.1002/eco.2154.
 122.	Magozzi S.*, Vander Zanden H. B., Wunder M. B. and Bowen G. J. (2019) Mechanistic model predicts tissue-environment relationships and trophic shifts in animal hydrogen and oxygen isotope ratios. Oecologia, 191, 777-789. doi:10.1007/s00442-019-04532-8.
 121.	Oerter E. J.* and Bowen G. J. (2019) Spatiotemporal heterogeneity in soil water stable isotopic composition and its ecohydrologic implications in semi-arid ecosystems. Hydrological Processes, 33, 1724-1738. doi:10.1002/hyp.13434.
 120.	Oerter E. J.*, Siebert G.*, Bowling D. R. and Bowen G. J. (2019) Soil water vapour isotopes identify missing water source for streamside trees. Ecohydrology, 12, e2083. doi:10.1002/eco.2083.
@@ -113,18 +125,18 @@ Journal Publications (https://scholar.google.com/citations?user=N8vn4BcAAAAJ&hl=
 117.	Suh Y. J., Diefendorf A. F., Bowen G. J., Cotton J. M. and Ju S.-J. (2019) Plant wax integration and transport from the Mississippi River Basin to the Gulf of Mexico inferred from GIS-enabled isoscapes and mixing models. Geochimica et Cosmochimica Acta, 257, 131-149. doi:10.1016/j.gca.2019.04.022.
 116.	Bowen G. J., Putman A. L.*, Brooks J. R., Bowling D. R., Oerter E. J. and Good S. P. (2018) Inferring the source of evaporated waters using stable H and O isotopes. Oecologia, 187, 1025-1039. doi:10.1007/s00442-018-4192-5.
 115.	Cai Z.*, Tian L. and Bowen G. J. (2018) Spatial-seasonal patterns reveal large-scale atmospheric controls on Asian Monsoon precipitation water isotope ratios. Earth and Planetary Science Letters, 503, 158-169. doi:10.1016/j.epsl.2018.09.028.
-114.	Chesson L. A., Barnette J. E., Bowen G. J., Brooks J. R., Casale J. F., Cerling T. E., Cook C. S., Douthitt C. B., Howa J. D., Hurley J. M., Kreuzer H. W., Lott M. J., Martinelli L. A., O�Grady S. P., Podlesak D. W., Tipple B. J., Valenzuela L. O. and West J. B. (2018) Applying the principles of isotope analysis in plant and animal ecology to forensic science in the Americas. Oecologia, 187, 1077-1094. doi:10.1007/s00442-018-4188-1.
+114.	Chesson L. A., Barnette J. E., Bowen G. J., Brooks J. R., Casale J. F., Cerling T. E., Cook C. S., Douthitt C. B., Howa J. D., Hurley J. M., Kreuzer H. W., Lott M. J., Martinelli L. A., O’Grady S. P., Podlesak D. W., Tipple B. J., Valenzuela L. O. and West J. B. (2018) Applying the principles of isotope analysis in plant and animal ecology to forensic science in the Americas. Oecologia, 187, 1077-1094. doi:10.1007/s00442-018-4188-1.
 113.	Fiorella R. P.*, Bares R., Lin J. C., Ehleringer J. R. and Bowen G. J. (2018) Detection and variability of combustion-derived vapor in an urban basin. Atmospheric Chemistry and Physics, 18, 8529-8547. doi:10.5194/acp-18-8529-2018.
 112.	Jameel Y.*, Brewer S., Fiorella R. P., Tipple B. J., Terry S. and Bowen G. J. (2018) Isotopic reconnaissance of urban water supply system dynamics. Hydrology and Earth System Sciences, 22, 6129-6125. doi:10.5194/hess-22-6109-2018.
-111.	Jameel Y.*, Stein S., Grimm E., Roswell C., Wilson A. E., Troy C., H��k T. O. and Bowen G. J. (2018) Physicochemical characteristics of a southern Lake Michigan river plume. Journal of Great Lakes Research, 44, 209-218. doi:10.1016/j.jglr.2018.01.003.
-110.	Kelson J. R., Watford D.*, Bataille C. P., Huntington K. W., Hyland E. and Bowen G. J. (2018) Warm terrestrial subtropics during the Paleocene and Eocene: Carbonate clumped isotope (?47) evidence from the Tornillo Basin, Texas (USA). Paleoceanography and Paleoclimatology, 33, 1230-1249. doi:10.1029/2018PA003391.
+111.	Jameel Y.*, Stein S., Grimm E., Roswell C., Wilson A. E., Troy C., Höök T. O. and Bowen G. J. (2018) Physicochemical characteristics of a southern Lake Michigan river plume. Journal of Great Lakes Research, 44, 209-218. doi:10.1016/j.jglr.2018.01.003.
+110.	Kelson J. R., Watford D.*, Bataille C. P., Huntington K. W., Hyland E. and Bowen G. J. (2018) Warm terrestrial subtropics during the Paleocene and Eocene: Carbonate clumped isotope (∆47) evidence from the Tornillo Basin, Texas (USA). Paleoceanography and Paleoclimatology, 33, 1230-1249. doi:10.1029/2018PA003391.
 109.	Neilson B. T., Tennant H., Stout T. L., Miller M. P., Gabor R. S., Jameel Y.*, Millington M. E., Gelderloos A., Bowen G. J. and Brooks P. D. (2018) Stream centric methods for establishing groundwater contributions in karst mountain watersheds. Water Resources Research, 54, 6708-6724. doi:10.1029/2018WR022664.
 108.	Tulley-Cordova C. L.*, Strong C., Brady I. P., Bekis J. and Bowen G. J. (2018) Navajo Nation, USA, precipitation variability from 2002 to 2015. Journal of Contemporary Water Research and Education, 163, 109-123.
-107.	Wang S., Zhang M., Bowen G. J., Liu X., Du M., Chen F., Qiu X., Wang L., Che Y. and Zhao G. (2018) Water source signatures in the spatial and seasonal isotope variation of Chinese tap waters. Water Resources Research, 54, 9131�9143. doi:10.1029/2018WR023091.
-106.	Westerhold T., R�hl U., Wilkens R., Gingerich P. D., Clyde W. C., Wing S. L., Bowen G. J. and Kraus M. J. (2018) Synchronizing early Eocene deep-sea and continental records � new cyclostratigraphic age models from the Bighorn Basin Coring Project. Climate of the Past, 14, 303-319. doi:10.5194/cp-14-303-2018.
-105.	Anh�user T., Greule M., Polag D., Bowen G. J. and Keppler F. (2017) Mean annual temperatures of mid-latitude regions derived from ?2H values of wood lignin methoxyl groups and its implications for paleoclimate studies. Science of the Total Environment, 574, 1276-1282. doi:10.1016/j.scitotenv.2016.07.189.
+107.	Wang S., Zhang M., Bowen G. J., Liu X., Du M., Chen F., Qiu X., Wang L., Che Y. and Zhao G. (2018) Water source signatures in the spatial and seasonal isotope variation of Chinese tap waters. Water Resources Research, 54, 9131–9143. doi:10.1029/2018WR023091.
+106.	Westerhold T., Röhl U., Wilkens R., Gingerich P. D., Clyde W. C., Wing S. L., Bowen G. J. and Kraus M. J. (2018) Synchronizing early Eocene deep-sea and continental records – new cyclostratigraphic age models from the Bighorn Basin Coring Project. Climate of the Past, 14, 303-319. doi:10.5194/cp-14-303-2018.
+105.	Anhäuser T., Greule M., Polag D., Bowen G. J. and Keppler F. (2017) Mean annual temperatures of mid-latitude regions derived from δ2H values of wood lignin methoxyl groups and its implications for paleoclimate studies. Science of the Total Environment, 574, 1276-1282. doi:10.1016/j.scitotenv.2016.07.189.
 104.	Cai Z.*, Tian L. and Bowen G. J. (2017) ENSO variability reflected in precipitation oxygen isotopes across the Asian Summer Monsoon region. Earth and Planetary Science Letters, 475, 25-33. doi:10.1016/j.epsl.2017.06.035.
-103.	Coulter D. P., Bowen G. J. and H��k T. O. (2017) Influence of diet and ambient water on hydrogen and oxygen stable isotope ratios in fish tissue: Patterns within and among tissues and relationships with growth rates. Hydrobiologia, 799, 111-121. doi:10.1007/s10750-017-3200-9.
+103.	Coulter D. P., Bowen G. J. and Höök T. O. (2017) Influence of diet and ambient water on hydrogen and oxygen stable isotope ratios in fish tissue: Patterns within and among tissues and relationships with growth rates. Hydrobiologia, 799, 111-121. doi:10.1007/s10750-017-3200-9.
 102.	Gabor R. S., Hall S. J., Eiriksson D., Jameel Y.*, Millington M. E., Stout T. L., Barnes M. L., Gelderloos A., Tennant H., Bowen G. J., Neilson B. T. and Brooks P. D. (2017) Persistent urban influences on surface water quality via impacted groundwater. Environmental Science and Technology, 51, 9477-9487. doi:10.1021/acs.est.7b00271.
 101.	Liu Z., Tang Y., Jian Z., Poulsen C. J., Welker J. M. and Bowen G. J. (2017) Pacific North American circulation pattern links external forcing and North American hydroclimatic change over the past millennium. Proceedings of the National Academy of Sciences, 114, 3340-3345. doi:10.1073/pnas.1618201114.
 100.	Oerter E. J.* and Bowen G. J. (2017) In situ monitoring of H and O stable isotopes in soil water reveals ecohydrologic dynamics in managed soil systems. Ecohydrology, 10(4), 1-13. doi:10.1002/eco.1841.
@@ -135,13 +147,13 @@ Journal Publications (https://scholar.google.com/citations?user=N8vn4BcAAAAJ&hl=
 95.	Abels H. A., Lauretano V., van Yperen A. E., Hopman T., Zachos J. C., Lourens L. J., Gingerich P. D. and Bowen G. J. (2016) Environmental impact and magnitude of paleosol-carbonate carbon-isotope excursions marking five early Eocene hyperthermals in the Bighorn Basin, Wyoming. Climate of the Past, 12, 1151-1163. doi:10.5194/cp-12-1151-2016.
 94.	Bataille C. P.*, Watford D.*, Reugg S.*, Lowe A.* and Bowen G. J. (2016) Chemostratigraphic age model for the Tornillo Group: A possible link between fluvial stratigraphy and climate. Palaeogeography, Palaeoclimatology, Palaeoecology, 457, 277-289. doi:10.1016/j.palaeo.2016.06.023.
 93.	Cerling T. E., Barnette J. E., Bowen G. J., Chesson L. A., Ehleringer J. R., Remien C. H., Shea P., Tipple B. J. and West J. B. (2016) Forensic stable isotope biogeochemistry. Annual Review of Earth and Planetary Sciences, 44, 175-206. doi:10.1146/annurev-earth-060115-012303.
-92.	Ehleringer J. R., Barnette J. E., Jameel Y.*, Tipple B. J. and Bowen G. J. (2016) Urban water � a new frontier in isotope hydrology. Isotopes in Environmental and Health Studies. doi:10.1080/10256016.2016.1171217.
+92.	Ehleringer J. R., Barnette J. E., Jameel Y.*, Tipple B. J. and Bowen G. J. (2016) Urban water – a new frontier in isotope hydrology. Isotopes in Environmental and Health Studies. doi:10.1080/10256016.2016.1171217.
 91.	Hall S. J., Weintraub S. R.*, Eiriksson D., Brooks P. D., Baker M. A., Bowen G. J. and Bowling D. R. (2016) Stream nitrogen inputs reflect groundwater across a snowmelt-dominated montane to urban watershed. Environmental Science and Technology, 50, 1137-1146. doi:10.1021/acs.est.5b04805.
-90.	Hinckley E.-L. S., Bonan G., Bowen G. J., Colman B., Duffy P., Goodale C. L., Houlton B., Mar�n-Spiotta E., Ogle K., Ollinger S. V., Paul E. A., Vitousek P. M., Weathers K. C. and Williams D. G. (2016) The soil and plant biogeochemistry sampling design for the National Ecological Observatory Network. Ecosphere, 7, e01234. doi: 10.1002/ecs2.1234.
+90.	Hinckley E.-L. S., Bonan G., Bowen G. J., Colman B., Duffy P., Goodale C. L., Houlton B., Marín-Spiotta E., Ogle K., Ollinger S. V., Paul E. A., Vitousek P. M., Weathers K. C. and Williams D. G. (2016) The soil and plant biogeochemistry sampling design for the National Ecological Observatory Network. Ecosphere, 7, e01234. doi: 10.1002/ecs2.1234.
 89.	Jameel Y.*, Brewer S., Good S. P.*, Tipple B. J., Ehleringer J. R. and Bowen G. J. (2016) Tap water isotope ratios reflect urban water system structure and dynamics across a semiarid metropolitan area. Water Resources Research, 52, 5891-5910. doi:10.1002/2016WR019104. (Highlighted in Eos)
 88.	Vander Zanden H. B.*, Soto D. X., Bowen G. J. and Hobson K. A. (2016) Expanding the isotopic toolbox: Applications of hydrogen and oxygen stable isotope ratios to food web studies. Frontiers in Ecology and Evolution, 4:20. doi: 10.3389/fevo.2016.00020.
 87.	Bowen G. J. and Good S. P.* (2015) Incorporating Water Isoscapes in Hydrological and Water Resource Investigations. WIREs Water, 2, 107-119. doi:10.1002/wat2.1069.
-86.	Bowen G. J., Maibauer B. J.*, Kraus M. J., R�hl U., Westerhold T., Steimke A.*, Gingerich P. D., Wing S. L. and Clyde W. C. (2015) Two massive, rapid releases of carbon during the onset of the Paleocene-Eocene thermal maximum. Nature Geoscience, 8, 44-47. doi:10.1038/NGEO2316.
+86.	Bowen G. J., Maibauer B. J.*, Kraus M. J., Röhl U., Westerhold T., Steimke A.*, Gingerich P. D., Wing S. L. and Clyde W. C. (2015) Two massive, rapid releases of carbon during the onset of the Paleocene-Eocene thermal maximum. Nature Geoscience, 8, 44-47. doi:10.1038/NGEO2316.
 85.	Good S. P.*, Noone D. C. and Bowen G. J. (2015) Hydrologic connectivity constrains partitioning of global terrestrial water fluxes. Science, 349, 175-177. doi:10.1126/science.aaa5931.
 84.	Good S. P.*, Noone D. C., Kurita N., Benetti M. and Bowen G. J. (2015) D/H isotope ratios in the global hydrologic cycle. Geophysical Research Letters, 42. doi:10.1002/2015GL064117.
 83.	Gorski G.*, Strong C., Good S. P.*, Bares R., Ehleringer J. R. and Bowen G. J. (2015) Vapor hydrogen and oxygen isotopes reflect water of combustion in the urban atmosphere. Proceedings of the National Academy of Sciences, 112, 3247-3252. doi:10.1073/pnas.1424728112.
@@ -152,18 +164,18 @@ Journal Publications (https://scholar.google.com/citations?user=N8vn4BcAAAAJ&hl=
 78.	Bataille C. P.*, Brennan S. R., Hartmann J., Moosdorf N., Wooller M. J. and Bowen G. J. (2014) A geostatistical framework for predicting variability in strontium concentrations and isotope ratios in Alaskan rivers. Chemical Geology, 389, 1-15. doi:10.1016/j.chemgeo.2014.08.030.
 77.	Bowen G. J., Liu Z., Vander Zanden H. B.*, Zhao L. and Takahashi G. (2014) Geographic assignment with stable isotopes in IsoMAP. Methods in Ecology and Evolution, 5, 201-206. doi:10.1111/2041-210X.12147.
 76.	Brenan S. R., Fernandez D. P., Mackey G., Cerling T. E., Bataille C. P.*, Bowen G. J. and Wooller M. J. (2014) Strontium isotope variation and carbonate versus silicate weathering in rivers from across Alaska: Implications for provenance studies. Chemical Geology, 389, 167-181. doi:10.1016/j.chemgeo.2014.08.018.
-75.	Foley C. J., Bowen G. J., Nalepa T. F., Sep�lveda M. S. and H��k T. O. (2014) Stable isotope patterns of benthic organisms from the Great Lakes region reveal dietary overlap of Diporeia spp. and dreissenid mussels. Canadian Journal of Fisheries and Aquatic Sciences, 71, 1784-1795. doi:10.1139/cjfas-2013-0620.
+75.	Foley C. J., Bowen G. J., Nalepa T. F., Sepúlveda M. S. and Höök T. O. (2014) Stable isotope patterns of benthic organisms from the Great Lakes region reveal dietary overlap of Diporeia spp. and dreissenid mussels. Canadian Journal of Fisheries and Aquatic Sciences, 71, 1784-1795. doi:10.1139/cjfas-2013-0620.
 74.	Good S. P.*, Kennedy C. D., Stalker J. C., Chesson L. A., Valenzuela L. O., Beasley M. M., Ehleringer J. R. and Bowen G. J. (2014) Patterns of local and non-local water resource use across the western United States determined via stable isotope intercomparisons. Water Resources Research, 50, 8034-8049. doi:10.1002/2014WR015884. (Highlighted in Eos)
 73.	Good S. P.*, Mallia D. V., Lin J. C. and Bowen G. J. (2014) Stable isotope analysis of precipitation samples obtained via crowdsourcing reveals the spatiotemporal evolution of Superstorm Sandy. PLoS ONE, 9, e91117. doi:10.1371/journal.pone.0091117.
 72.	Liu Z., Yoshimura K., Bowen G. J., Buenning N. H., Risi C., Welker J. M. and Yuan F. (2014) Paired oxygen isotope records reveal modern North American atmospheric dynamics during the Holocene. Nature Communications, 5, 3701. doi:10.1038/ncomms4701.
-71.	Liu Z., Yoshimura K., Bowen G. J. and Welker J. M. (2014) Pacific North American teleconnection controls on precipitation isotopes (?18O) across the contiguous United States and adjacent regions: A GCM-based analysis. Journal of Climate, 27, 1046-1061 doi:10.1175/JCLI-D-13-00334.1.
-70.	R�egg J., Gries C., Bond-Lamberty B., Bowen G. J., Felzer B. S., McIntyre N. E., Soranno P. A., Vanderbilt K. L. and Weathers K. C. (2014) Completing the data life cycle: Using information management in macrosystems ecology research. Frontiers in Ecology and the Environment, 12, 24-30. doi:10.1890/120375.
+71.	Liu Z., Yoshimura K., Bowen G. J. and Welker J. M. (2014) Pacific North American teleconnection controls on precipitation isotopes (δ18O) across the contiguous United States and adjacent regions: A GCM-based analysis. Journal of Climate, 27, 1046-1061 doi:10.1175/JCLI-D-13-00334.1.
+70.	Rüegg J., Gries C., Bond-Lamberty B., Bowen G. J., Felzer B. S., McIntyre N. E., Soranno P. A., Vanderbilt K. L. and Weathers K. C. (2014) Completing the data life cycle: Using information management in macrosystems ecology research. Frontiers in Ecology and the Environment, 12, 24-30. doi:10.1890/120375.
 69.	Vander Zanden H. B.*, Wunder M. B., Hobson K. A., Van Wilgenberg S. L., Wassenaar L. I., Welker J. M. and Bowen G. J. (2014) Contrasting assignment of migratory organisms to geographic origins using long-term versus year-specific precipitation isotope maps. Methods in Ecology and Evolution, 5, 891-900. doi:10.1111/2041-210X.12229.
 68.	VanDeVelde J. H.* and Bowen G. J. (2014) Isotope hydrology of early Paleogene Lake Flagstaff, central Utah: implications for Cordilleran evolution. American Journal of Science, 314, 1436-1461. doi:10.2475/10.2014.02.
-67.	West A. G., February E. C. and Bowen G. J. (2014) Spatial analysis of hydrogen and oxygen stable isotopes (�isoscapes�) in ground water and tap water across South Africa. Journal of Geochemical Exploration, 145, 213-222. doi:10.1016/j.gexplo.2014.06.009.
+67.	West A. G., February E. C. and Bowen G. J. (2014) Spatial analysis of hydrogen and oxygen stable isotopes (“isoscapes”) in ground water and tap water across South Africa. Journal of Geochemical Exploration, 145, 213-222. doi:10.1016/j.gexplo.2014.06.009.
 66.	Bataille C. P.*, Mastalerz M., Tipple B. J. and Bowen G. J. (2013) Influence of provenance and preservation on the carbon isotope variations of dispersed organic matter in ancient floodplain sediments. Geochemistry, Geophysics, Geosystems, 14, 4874-4891. doi:10.1002/2013GC004875.
 65.	Bowen G. J. (2013) Up in smoke: A role for organic carbon feedbacks in Paleogene hyperthermals. Global and Planetary Change, 109, 18-29. doi:10.1016/j.gloplacha.2013.07.001.
-64.	Clyde W. C., Gingerich P. D., Wing S. L., R�hl U., Westerhold T., Bowen G. J., Johnson K., Baczynski A., Diefendorf A., Schnurrenberger D., Noren A., Brady K. and the BBCP Science Team (2013) Bighorn Basin Coring Project (BBCP): A continental perspective on Early Paleogene hyperthermals. Scientific Drilling, 16, 21-31. doi:10.5194/sd-16-21-2013.
+64.	Clyde W. C., Gingerich P. D., Wing S. L., Röhl U., Westerhold T., Bowen G. J., Johnson K., Baczynski A., Diefendorf A., Schnurrenberger D., Noren A., Brady K. and the BBCP Science Team (2013) Bighorn Basin Coring Project (BBCP): A continental perspective on Early Paleogene hyperthermals. Scientific Drilling, 16, 21-31. doi:10.5194/sd-16-21-2013.
 63.	Cooper H. K. and Bowen G. J. (2013) Metal armor from St. Lawrence Island. Arctic Anthropology, 50, 1-19.
 62.	Liu Z., Bowen G. J., Welker J. M. and Yoshimura K. (2013) Winter precipitation isotope slopes of the contiguous USA and their relationship to the Pacific/North American (PNA) pattern. Climate Dynamics, 41, 403-420. doi:10.1007/s00382-012-1548-0.
 61.	Schneider-Mor A.* and Bowen G. J. (2013) Coupled and decoupled responses of continental and marine organic-sedimentary systems through the Paleocene-Eocene thermal maximum, New Jersey margin, USA. Paleoceanography, 28. doi:10.1002/palo.20016.
@@ -176,18 +188,18 @@ Journal Publications (https://scholar.google.com/citations?user=N8vn4BcAAAAJ&hl=
 54.	Bowen G. J., West J. B., Zhao L., Takahashi G., Miller C. C. and Zhang T. (2012) Cyberinfrastructure for isotope analysis and modeling. Eos: Transactions of the American Geophysical Union, 93, 185-187.
 53.	Buzon M. R., Conlee C. A., Simonetti A. and Bowen G. J. (2012) The consequences of Wari contact in the Nasca region during the Middle Horizon: Archaeological, skeletal, and isotopic evidence. Journal of Archaeological Science, 39, 2627-2636. doi:10.1016/j.jas.2012.04.003.
 52.	Kennedy C. D.*, Bataille C. P.*, Liu Z.*, Ale S., VanDeVelde J.*, Roswell C. R., Bowling L. C. and Bowen G. J. (2012) Dynamics of nitrate and chloride during storm events in agricultural catchments with different subsurface drainage intensity (Indiana, USA). Journal of Hydrology, 466-467, 1-10. doi:10.1016/j.hydrol.2012.05.002.
-51.	Podlesak D. W., Bowen G. J., O�Grady S., Cerling T. E. and Ehleringer J. R. (2012) ?2H and ?18O of human body water: A GIS model to distinguish residents from nonresidents in the contiguous United States. Isotopes in Environmental and Health Studies, 48, 259-279. doi:10.1080/10256016.2012.644283.
+51.	Podlesak D. W., Bowen G. J., O’Grady S., Cerling T. E. and Ehleringer J. R. (2012) δ2H and δ18O of human body water: A GIS model to distinguish residents from nonresidents in the contiguous United States. Isotopes in Environmental and Health Studies, 48, 259-279. doi:10.1080/10256016.2012.644283.
 50.	Sachse D., Billault I., Bowen G. J., Chikaraishi Y., Dawson T., Feakins S. J., Freeman K. H., Magill C. R., McInerney F. A., van der Meer M. T. J., Polissar P., Robins R., Sachs J. P., Schmidt H. -L., Sessions A. L., White J. W. C., West J. B. and Kahmen A. (2012) Molecular paleohydrology: Interpreting the hydrogen-isotopic composition of lipid biomarkers from photosynthetic organisms. Annual Review of Earth and Planetary Sciences, 40, 221-249. doi:10.1146/annurev-earth-042711-105535.
 49.	Valenzuela L. O., Chesson L. A., Bowen G. J., Cerling T. E. and Ehleringer J. R. (2012) Dietary heterogeneity among western industrialized countries reflected in the stable isotope ratios of human hair. PLoS ONE, 7(3), e34234. doi:10.1371/journal.pone.0034234.
 48.	Bowen G. J., Kennedy C. D.*, Liu Z.* and Stalker J.* (2011) Water balance model for mean annual hydrogen and oxygen isotope distributions in surface waters of the contiguous USA. Journal of Geophysical Research, 116, G04011. doi:10.1029/2010JG001581. (Highlighted in Eos)
 47.	Buzon M. R., Conlee C. A. and Bowen G. J. (2011) Refining oxygen isotope analysis in the Nasca region of Peru: An investigation of water sources and archaeological samples. International Journal of Osteoarchaeology, 21, 446-455. doi:10.1002/oa.1151.
 46.	Chesson L. A., Valenzuela L. O., Bowen G. J., Cerling T. E. and Ehleringer J. R. (2011) Consistent predictable patterns in the hydrogen and oxygen isotope ratios of animal proteins consumed by humans in the USA. Rapid Communications in Mass Spectrometry, 25, 3713-3722. doi:10.1002/rcm.5283.
-45.	Kennedy C. D.*, Bowen G. J. and Ehleringer J. R. (2011) Temporal variation of oxygen isotope ratios (?18O) in drinking water: Implications for specifying location of origin with human scalp hair. Forensic Science International, 208, 156-166. doi:10.1016/j.forsciint.2010.11.021.
+45.	Kennedy C. D.*, Bowen G. J. and Ehleringer J. R. (2011) Temporal variation of oxygen isotope ratios (δ18O) in drinking water: Implications for specifying location of origin with human scalp hair. Forensic Science International, 208, 156-166. doi:10.1016/j.forsciint.2010.11.021.
 44.	Lee H., Zhao L., Bowen G. J., Miller C. C., Kalangi A., Zhang T. and West J. B. (2011) Enabling online geospatial isotopic model development and analysis. Proceedings of the 2011 TeraGrid Conference: Extreme Digital Discovery, 1-8. doi:10.1145/2016741.2016783.
 43.	Liu Z.*, Kennedy C. D.* and Bowen G. J. (2011) Pacific/North American teleconnection controls on precipitation isotope ratios across the contiguous United States. Earth and Planetary Science Letters, 310, 319-326. doi:10.1016/j.epsl.2011.08.037.
-42.	Rodrigues C., Brunner M., Steiman S., Bowen G. J., Nogueira J. M. F., Gautz L., Prohaska T. and M�guas C. (2011) Isotopes as tracers of the Hawaiian coffee-producing regions. Journal of Agricultural and Food Chemistry, 59, 10239-10246. doi:10.1021/jf200788p.
+42.	Rodrigues C., Brunner M., Steiman S., Bowen G. J., Nogueira J. M. F., Gautz L., Prohaska T. and Máguas C. (2011) Isotopes as tracers of the Hawaiian coffee-producing regions. Journal of Agricultural and Food Chemistry, 59, 10239-10246. doi:10.1021/jf200788p.
 41.	Ting S., Wang Y. Q., Clyde W. C., Koch P. L., Tong Y., Meng J., Bowen G. J., Qian L. and Snell K. E. (2011) Asian Early Paleogene chronology and mammalian faunal turnover events. Vertebrate Palasiatica, 49, 1-28.
-40.	Wolf N., Bowen G. J. and Martinez del Rio C. (2011) The influence of drinking water on the ?D and ?18O values of plasma, blood, and feather of house sparrow tissues. Journal of Experimental Biology, 214, 98-103. doi:10.1242/jeb.050211.
+40.	Wolf N., Bowen G. J. and Martinez del Rio C. (2011) The influence of drinking water on the δD and δ18O values of plasma, blood, and feather of house sparrow tissues. Journal of Experimental Biology, 214, 98-103. doi:10.1242/jeb.050211.
 39.	Bowen G. J. (2010) Isoscapes: Spatial pattern in isotopic biogeochemistry. Annual Review of Earth and Planetary Sciences, 38, 161-187. doi:10.1146/annurev-earth-040809-152429.
 38.	Bowen G. J. and Zachos J. C. (2010) Rapid carbon sequestration at the termination of the Paleocene-Eocene thermal maximum. Nature Geoscience, 3, 866-869. doi:10.1038/NGEO1014.
 37.	Buzon M. R. and Bowen G. J. (2010) Oxygen isotope analysis of residential mobility at the New Kingdom site of Tombos in Nubia. Archaeometry, 52, 855-868. doi:10.1111/j.1475-4754.2009.00503.x.
@@ -209,8 +221,8 @@ Journal Publications (https://scholar.google.com/citations?user=N8vn4BcAAAAJ&hl=
 21.	Bowen G. J., Bralower T. J., Delaney M. L., Dickens G. R., Kelly D. C., Koch P. L., Kump L. R., Meng J., Sloan L. C., Thomas E., Wing S. L. and Zachos J. C. (2006) Eocene hyperthermal event offers insight into greenhouse warming. Eos: Transactions of the American Geophysical Union, 87, 165 - 169.
 20.	Fox-Dobbs K., Stidham T. A., Bowen G. J., Emslie S. D. and Koch P. L. (2006) Dietary controls on extinction versus survival among avian megafauna in the late Pleistocene. Geology, 34, 685 - 688.
 19.	Norris D. R., Marra P. P., Bowen G. J., Ratcliffe L. M., Royale J. A. and Kyser T. K. (2006) Migratory connectivity of a widely distributed songbird, the American Redstart (Setophaga Ruticilla). Ornithological Monographs, 61, 13-28.
-18.	West J. B., Bowen G. J., Cerling T. E. and Ehleringer J. R. (2006) Stable isotopes as one of nature�s ecological recorders. Trends in Ecology & Evolution, 21, 408-414, doi:10.1016/j.tree.2006.04.002.
-17.	Bowen G. J., Chesson L., Nielson K., Cerling T. E. and Ehleringer J. R. (2005) Treatment methods for the determination of ?2H and ?18O of hair keratin by continuous-flow isotope-ratio mass spectrometry. Rapid Communications in Mass Spectrometry, 19, 2371-2378, doi:10.1002/rcm.2069.
+18.	West J. B., Bowen G. J., Cerling T. E. and Ehleringer J. R. (2006) Stable isotopes as one of nature’s ecological recorders. Trends in Ecology & Evolution, 21, 408-414, doi:10.1016/j.tree.2006.04.002.
+17.	Bowen G. J., Chesson L., Nielson K., Cerling T. E. and Ehleringer J. R. (2005) Treatment methods for the determination of δ2H and δ18O of hair keratin by continuous-flow isotope-ratio mass spectrometry. Rapid Communications in Mass Spectrometry, 19, 2371-2378, doi:10.1002/rcm.2069.
 16.	Bowen G. J., Koch P. L., Meng J., Ye J. and Ting S. (2005) Stratigraphy and correlation of fossiliferous late Paleocene-early Eocene strata of the Erlian Basin, Inner Mongolia, China. American Museum Novitates, 3474, 1-26.
 15.	Bowen G. J., Wassenaar L. I. and Hobson K. A. (2005) Global application of stable hydrogen and oxygen isotopes to wildlife forensics. Oecologia, 143, 337-348, doi:10.1007/s00442-004-1813-y.
 14.	Bowen G. J., Winter D. A., Spero H. J., Zierenberg R. A., Cerling T. E. and Ehleringer J. R. (2005) Stable hydrogen and oxygen isotope ratios of bottled waters of the world. Rapid Communications in Mass Spectrometry, 19, 3442-3450, doi:10.1002/rcm.2216.
@@ -226,10 +238,11 @@ Journal Publications (https://scholar.google.com/citations?user=N8vn4BcAAAAJ&hl=
 4.	Bowen G. J. and Revenaugh J. (2003) Interpolating the isotopic composition of modern meteoric precipitation. Water Resources Research, 39, 1299, doi:10.129/2003WR002086.
 3.	Bowen G. J. and Bloch J. I. (2002) Petrography and geochemistry of floodplain limestones from the Clarks Fork basin, Wyoming, U.S.A.: Carbonate deposition and fossil accumulation on a Paleocene-Eocene floodplain. Journal of Sedimentary Research, 72, 46-58.
 2.	Bowen G. J., Clyde W. C., Koch P. L., Ting S., Alroy J., Tsubamoto T., Wang Y. and Wang Y. (2002) Mammalian dispersal at the Paleocene/Eocene boundary. Science, 295, 2062-2065.
-1.	Bowen G. J. and Wilkinson B. (2002) Spatial distribution of ?18O in meteoric precipitation. Geology, 30, 315-318.
+1.	Bowen G. J. and Wilkinson B. (2002) Spatial distribution of δ18O in meteoric precipitation. Geology, 30, 315-318.
 
 Peer-Reviewed Books and Book Chapters:
-17. 	Valenzuela L. O., Chesson L. A., Bowen G. J., Cerling T. E. and Ehleringer J. R. (2020) Spatial distribution of stable isotope values of human hair: Tools for region-of-origin and travel history assignment. Forensic Science and Humanitarian Action: Interacting with the Dead and the Living (ed. Parra R. C., Zapico S. C. and Ubelaker D. H.), pp. 385-410. John Wiley & Sons.
+18.	Allen S. T., Sprenger M., Bowen G. J. and Brooks J. R. (2022) Spatial and temporal variations in plant source water: O and H isotope ratios from precipitation to xylem water. In Stable Isotopes in Tree Rings: Inferring Physiological, Climatic and Environmental Responses (ed. Siegwolf R., Brooks J. R., Roden J. and Saurer M.), pp. 501-535. Springer. doi:10.1007/978-3-030-92698-4_18.
+17. 	Valenzuela L. O., Chesson L. A., Bowen G. J., Cerling T. E. and Ehleringer J. R. (2020) Spatial distribution of stable isotope values of human hair: Tools for region-of-origin and travel history assignment. In Forensic Science and Humanitarian Action: Interacting with the Dead and the Living (ed. Parra R. C., Zapico S. C. and Ubelaker D. H.), pp. 385-410. John Wiley & Sons.
 16.	Bowen G. J. and West J. B. (2019) Isoscapes for terrestrial migration research. In Tracking Animal Migration with Stable Isotopes (ed. Hobson K. A. and Wassenaar L. I.), pp. 53-84. Academic Press.
 15.	Buzon M. R., Schrader S. A. and Bowen G. J. (2019) Isotopic approaches to mobility in Northern Africa: A bioarchaeological examination of Egyptian/Nubian interaction in the Nile Valley. In Burials, Migration and Identity in the Ancient Sahara and Beyond (ed. Gatto M.C., Mattingly D.J. and Sterry M.), pp. 223-246. Cambridge University Press.
 14.	Good S. P.*, Mallia D. V., Denis E. H., Freeman K. H., Feng X., Li S., Zegre N., Lin J. C. and Bowen G. J. (2014) High-density spatiotemporal monitoring of water transport in Hurricane Sandy using stable isotopes. In Learning from the Impacts of Superstorm Sandy (ed. J. B. Bennington and E. C. Farmer), pp. 41-55. Elsevier. 
@@ -258,162 +271,178 @@ Non-Reviewed Papers, Chapters and Reports:
 5.	Votier S. C., Bowen G. J. and Newton J. (2009) Stable-hydrogen isotope analyses suggest natural vagrancy of Baikal Teal to Britain. British Birds, 102, 697-699.
 4.	Bowen G. J., West J. B. and Hoogewerff J. (2009) Isoscapes: Isotope mapping and its applications. Journal of Geochemical Exploration, 102, v-vii. doi:10.1016/j.gexplo.2009.05.001.
 3.	Kelly J. F., Bearhop S., Bowen G. J., Hobson K. A., Norris D. R., Wassenaar L. I., West J. B. and Wunder M. (2008) Future directions and challenges for using stable isotopes in advancing terrestrial animal migration research. In Tracking Animal Migration with Stable Isotopes (ed. K. A. Hobson and L. I Wassenaar), pp. 129-139. Elsevier Academic Press.
-2.	Bowen G. J. (2007) Palaeoclimate � When the world turned cold (News and Views). Nature, 445, 607-608.
+2.	Bowen G. J. (2007) Palaeoclimate – When the world turned cold (News and Views). Nature, 445, 607-608.
 1.	Tu K. P., Bowen G. J., Hemming D. H., Kahmen A., Knohl A., Lai C. T. and Werner C. (2007) Stable isotopes as indicators, tracers and recorders of ecological change: Synthesis and outlook. In Stable Isotopes as Indicators of Ecological Change (ed. T. E. Dawson and R. Siegwolf), pp. 399-405. Elsevier Academic Press.
 
 Software and Databases:
+7.	Bowen G. J. (2020) isoWater: Discovery, retrieval, and analysis of water isotope data. https://cran.r-project.org/package=isoWater. 
 6.	Bowen G. J. (2019) SPATIAL-Lab/JPI_marine: CoP resubmission (Version v1.1). Zenodo. http://doi.org/10.5281/zenodo.3358256. 
-5.	Bowen G. J., Ma C.*, Vander Zanden H. B. and Wunder M. B. (2019). assignR: Infer geographic origin from isotopic data. https://cran.r-project.org/web/packages/assignR/index.html.
-4.	Magozzi S.* and Bowen G. J. (2019) SPATIAL-Lab/SteadyStateHOModel: Oecologia final submission (Version v1.1). Zenodo. http://doi.org/10.5281/zenodo.3387255.
+5.	Bowen G. J., Ma C.*, Vander Zanden H. B. and Wunder M. B. (2019). assignR: Infer geographic origin from isotopic data. https://cran.r-project.org/package=assignR. 
+4.	Magozzi S.* and Bowen G. J. (2019) SPATIAL-Lab/SteadyStateHOModel: Oecologia final submission (Version v1.1). Zenodo. http://doi.org/10.5281/zenodo.3387255. 
 3.	Sequiera K.* and Bowen G. J. (2018) wiSamples: An iOS app supporting water sample collection for isotope analysis. Apple AppStore.
 2.	Bowen G. J. and Putman A. L.* (2017) The Waterisotopes Database (wiDB): A community resource supporting the archival, discovery, and reuse of stable water isotope data. https://waterisotopesDB.org.
 1.	Bowen G. J. (2003) The Online Isotopes in Precipitation Calculator. https://www.waterisotopes.org.
 
 Invited Presentations:
-* IAEA Technical Meeting on Artificial Intelligence for Nuclear Technology and Applications (2021) 
-* Distinguished Lecture Series, Department of Geology & Geophysics, Univ. of Utah (2021)
-* Ecoinformatics Seminar, Northern Arizona University (2020)
-* CLIVAR Water Isotopes and Climate Workshop, Boulder, CO (2019)
-* State Key Laboratory for Marine Geology, Tongi Univ., China (2019)
-* 27th IUGG General Assembly, Montreal, Canada (2019)
-* Research Institute for Humanity and Nature, Kyoto, Japan (2019)
-* Japan Geoscience Union Annual Meeting (2019)
-* Yunnan University, Kunming, China (2019)
-* Keynote � Science, Math and Engineering Symposium, Salt Lake Community College (2019)
-* Bureau of Economic Geology Seminar, Univ. of Texas (2019)
-* Fred L. and Frances J. Oliver Lecture, Univ. of Texas (2019)
-* Geology & Geophysics Open House (public lecture), Univ. of Utah (2019)
-* Geological Sciences Colloquium, Univ. of North Carolina (2019)
-* Department of Evolutionary Ecology, Leibniz Institute for Zoo and Wildlife Research, Germany (2018)
-* Earth Surface Dynamics Seminar, GFZ-Potsdam, Germany (2018)
-* Umbgrove Lecture, Faculty of Geosciences, Univ. of Utrecht, The Netherlands (2018)
-* NIOZ, The Netherlands (2018)
-* Forensic Science Program, Amsterdam University of Applied Sciences, The Netherlands (2018)
-* Global Change and Sustainability Center Seminar, Univ. of Utah (2018)
-* Geography Department Seminar Series, Texas A&M Univ. (2018)
-* Institute of Forensic Science, Ministry of Public Security, Beijing, China (2017)
-* Integrated Carbon and Water Ecological and Biogeochemical Synthesis Conference (2017)
-* Fondazione Edmund Mach, San Michele all�Adige, Italy (2017)
-* Biology Department Colloquium, West Virginia Univ. (2017)
-* American Geophysical Union Fall Meeting (2016)
-* Keynote � Australia New Zealand Forensic Science Society 23rd Annual Meeting, Auckland (2016)
-* Asia Oceana Geoscience Society Annual Meeting (2016)
-* Institute for Global Change Study, Tsinghua Univ., China (2016)
-* Plenary � 24th American Quaternary Association Biennial Meeting (2016)
-* Keynote � 10th International Conference on Applications of Stable Isotope Techniques to Ecological Studies, Tokyo, Japan (2016)
-* American Geophysical Union Fall Meeting (2015)
-* Goldschmidt Geochemistry Conference (2015)
-* Utah Geological Association (2015)
-* State Key Laboratory of Marine Geology, Tongji Univ., China (2015)
-* Institute of Tibetan Plateau Research, Chinese Academy of Sciences, China (2015)
-* State Key Laboratory of Environment and Water Resources, Tianjin Normal Univ., China (2015)
-* Geological Society of America National Meeting (2015)
-* Distinguished Speaker Series, Departments of Biology and Geology, Idaho State Univ. (2015)
-* American Indian Science and Engineering Society Regional Conference (2015)
-* ASMS Sanibel Conference on Security and Forensic Applications of Mass Spectrometry, Clearwater Beach, Florida (2015)
-* Keynote � Coming of Age? Stable Isotopes in Archaeology, Kiel, Germany (2014) 
-* Geological Society of America National Meeting (2014)
-* Department of Botany and Wyoming EPSCoR Seminar, Univ. of Wyoming (2014)
-* Earth Science Seminar, Utah Valley Univ. (2014)
-* Kansas Geological Survey Stratigraphic Research Seminar (2014)
-* Department of Geology Colloquium, Univ. of Kansas (2014)
-* CUAHSI/USGS Cyberseminar Series, Laser Specs for Field Hydrology (2014)
-* European Geophysical Union General Assembly (2014)
-* Distinguished Lecture Series, Univ. of Utah Department of Geology & Geophysics (2014)
-* Questar Energy Seminar, Univ. of Utah Department of Geology & Geophysics (2014)
-* American Geophysical Union Fall Meeting (2013)
-* Department of Earth and Planetary Sciences, Univ. of New Mexico (2013)
-* 1st International Workshop on Water Vapor Isotopes, IPSL, France (2013)
-* Keynote � 5th Forensic Isotope Ratio Mass Spectrometry Network Conference, Montreal, Canada (2013)
-* COST-SIBAE Meeting on Challenges in the Applications of Stable Isotopes Across Disciplines and Scales, Wroclaw, Poland (2013)
-* International Workshop on Aquatic Ecology and Restoration, Shenyang Agricultural Univ., China (2013)
-* Chinese-American Workshop on Global Changes and Management of Lakes and Watersheds, Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences, Nanjing, China (2013)
-* Department of Chemistry and Biochemistry Graduate Seminar, Florida International Univ. (2013)
-* Geography Department Colloquium, Univ. of Utah (2013)
-* Mathematical Biology Seminar, Univ. of Utah (2013)
-* Climate Change in the Mediterranean Region, Univ. of Seville, Spain (2012)
-* American Geophysical Union Fall Meeting (2012)
-* Keynote � International Geological Congress, Brisbane, Australia (2012)
-* Frontiers in Geoscience, Los Alamos National Lab (2012)
-* Geology & Geophysics Seminar, Yale Univ. (2012)
-* American Geophysical Union Fall Meeting (2011)
-* Keynote � Goldschmidt Geochemistry Conference (2011)
-* Gordon Conference on Catchment Hydrology (2011)
-* Southern Illinois University (2011)
-* The Roles of Stable Isotopes in Water Cycle Research (2011)
-* Texas A&M University (2011)
-* Goldschmidt Geochemistry Conference (2010)
-* Univ. Chicago (2010)
-* Distinguished Lecture Series, Department of Geology & Geophysics, Univ. of Utah (2010)
-* American Geophysical Union Fall Meeting (2009)
-* Climatic and Biotic Events of the Paleogene, New Zealand, 2009
-* Northwestern Univ. (2009)
-* Ohio State Univ. (2009)
-* Southern Methodist Univ. (2009)
-* Univ. of Tsukuba (Japan) � Terrestrial Environmental Research Center (2009)
-* Indiana State Univ. (2008)
-* Keynote - 6th International Conference on Applications of Stable Isotope Techniques to Ecological Studies  (2008)
-* Joint Biology and Geosciences Dept. Seminar, Western Michigan Univ. (2008)
-* Indiana Univ./Purdue Univ. Indianapolis (2007)
-* Geology Colloquium, Univ. Illinois (2006)
-* Quaternary Paleoecology Seminar, Univ. Minnesota (2006)
-* Univ. Lisbon - Institute of Scientific and Applied Technology (2006)
-* Stable Isotopes as Recorders of Ecological Change: A BASIN Workshop, Tomar, Portugal (2006)
-* Darwin Center Lecture, Univ. Utrecht (2006)
-* Geological Society of America National Meeting (2005)
-* Earth Systems Processes 2 (2005)
-* Guy F. Atkinson Distinguished Lecture Series, Univ. of Utah (2005)
-* Lewis Weeks Lecture Series, Univ. of Wisconsin (2005)
+• Earth and Environmental Sciences Seminar, University of Texas at Arlington (2023)
+• Keynote – 8th National Conference on Stable Isotope Ecology, Fujian Normal Univ., China (2022)
+• Department of Geoscience Speaker Series, Boise State Univ. (2022)
+• Defense POW/MIA Accounting Agency Partnership Symposium (2022)
+• Keynote – 12th Conference on Climatic and Biotic Events of the Paleogene (2022)
+• Bighorn Basin Paleontology Symposium (public lecture), Washakie Museum (2022)
+• North Dakota Water Quality Monitoring Conference (2022)
+• University of Hawaii Oceanography Seminar (2022)
+• Identifying New Community-Driven Science Themes for NSF’s Support of Paleoclimate Research, U.S. National Academy of Science (2021)
+• IAEA Technical Meeting on Artificial Intelligence for Nuclear Technology and Applications (2021) 
+• Distinguished Lecture Series, Department of Geology & Geophysics, Univ. of Utah (2021)
+• Ecoinformatics Seminar, Northern Arizona University (2020)
+• CLIVAR Water Isotopes and Climate Workshop, Boulder, CO (2019)
+• State Key Laboratory for Marine Geology, Tongi Univ., China (2019)
+• 27th IUGG General Assembly, Montreal, Canada (2019)
+• Research Institute for Humanity and Nature, Kyoto, Japan (2019)
+• Japan Geoscience Union Annual Meeting (2019)
+• Yunnan University, Kunming, China (2019)
+• Keynote – Science, Math and Engineering Symposium, Salt Lake Community College (2019)
+• Bureau of Economic Geology Seminar, Univ. of Texas (2019)
+• Fred L. and Frances J. Oliver Lecture, Univ. of Texas (2019)
+• Geology & Geophysics Open House (public lecture), Univ. of Utah (2019)
+• Geological Sciences Colloquium, Univ. of North Carolina (2019)
+• Department of Evolutionary Ecology, Leibniz Institute for Zoo and Wildlife Research, Germany (2018)
+• Earth Surface Dynamics Seminar, GFZ-Potsdam, Germany (2018)
+• Umbgrove Lecture, Faculty of Geosciences, Univ. of Utrecht, The Netherlands (2018)
+• NIOZ, The Netherlands (2018)
+• Forensic Science Program, Amsterdam University of Applied Sciences, The Netherlands (2018)
+• Global Change and Sustainability Center Seminar, Univ. of Utah (2018)
+• Geography Department Seminar Series, Texas A&M Univ. (2018)
+• Institute of Forensic Science, Ministry of Public Security, Beijing, China (2017)
+• Integrated Carbon and Water Ecological and Biogeochemical Synthesis Conference (2017)
+• Fondazione Edmund Mach, San Michele all’Adige, Italy (2017)
+• Biology Department Colloquium, West Virginia Univ. (2017)
+• American Geophysical Union Fall Meeting (2016)
+• Keynote – Australia New Zealand Forensic Science Society 23rd Annual Meeting, Auckland (2016)
+• Asia Oceana Geoscience Society Annual Meeting (2016)
+• Institute for Global Change Study, Tsinghua Univ., China (2016)
+• Plenary – 24th American Quaternary Association Biennial Meeting (2016)
+• Keynote – 10th International Conference on Applications of Stable Isotope Techniques to Ecological Studies, Tokyo, Japan (2016)
+• American Geophysical Union Fall Meeting (2015)
+• Goldschmidt Geochemistry Conference (2015)
+• Utah Geological Association (2015)
+• State Key Laboratory of Marine Geology, Tongji Univ., China (2015)
+• Institute of Tibetan Plateau Research, Chinese Academy of Sciences, China (2015)
+• State Key Laboratory of Environment and Water Resources, Tianjin Normal Univ., China (2015)
+• Geological Society of America National Meeting (2015)
+• Distinguished Speaker Series, Departments of Biology and Geology, Idaho State Univ. (2015)
+• American Indian Science and Engineering Society Regional Conference (2015)
+• ASMS Sanibel Conference on Security and Forensic Applications of Mass Spectrometry, Clearwater Beach, Florida (2015)
+• Keynote – Coming of Age? Stable Isotopes in Archaeology, Kiel, Germany (2014) 
+• Geological Society of America National Meeting (2014)
+• Department of Botany and Wyoming EPSCoR Seminar, Univ. of Wyoming (2014)
+• Earth Science Seminar, Utah Valley Univ. (2014)
+• Kansas Geological Survey Stratigraphic Research Seminar (2014)
+• Department of Geology Colloquium, Univ. of Kansas (2014)
+• CUAHSI/USGS Cyberseminar Series, Laser Specs for Field Hydrology (2014)
+• European Geophysical Union General Assembly (2014)
+• Distinguished Lecture Series, Univ. of Utah Department of Geology & Geophysics (2014)
+• Questar Energy Seminar, Univ. of Utah Department of Geology & Geophysics (2014)
+• American Geophysical Union Fall Meeting (2013)
+• Department of Earth and Planetary Sciences, Univ. of New Mexico (2013)
+• 1st International Workshop on Water Vapor Isotopes, IPSL, France (2013)
+• Keynote – 5th Forensic Isotope Ratio Mass Spectrometry Network Conference, Montreal, Canada (2013)
+• COST-SIBAE Meeting on Challenges in the Applications of Stable Isotopes Across Disciplines and Scales, Wroclaw, Poland (2013)
+• International Workshop on Aquatic Ecology and Restoration, Shenyang Agricultural Univ., China (2013)
+• Chinese-American Workshop on Global Changes and Management of Lakes and Watersheds, Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences, Nanjing, China (2013)
+• Department of Chemistry and Biochemistry Graduate Seminar, Florida International Univ. (2013)
+• Geography Department Colloquium, Univ. of Utah (2013)
+• Mathematical Biology Seminar, Univ. of Utah (2013)
+• Climate Change in the Mediterranean Region, Univ. of Seville, Spain (2012)
+• American Geophysical Union Fall Meeting (2012)
+• Keynote – International Geological Congress, Brisbane, Australia (2012)
+• Frontiers in Geoscience, Los Alamos National Lab (2012)
+• Geology & Geophysics Seminar, Yale Univ. (2012)
+• American Geophysical Union Fall Meeting (2011)
+• Keynote – Goldschmidt Geochemistry Conference (2011)
+• Gordon Conference on Catchment Hydrology (2011)
+• Southern Illinois University (2011)
+• The Roles of Stable Isotopes in Water Cycle Research (2011)
+• Texas A&M University (2011)
+• Goldschmidt Geochemistry Conference (2010)
+• Univ. Chicago (2010)
+• Distinguished Lecture Series, Department of Geology & Geophysics, Univ. of Utah (2010)
+• American Geophysical Union Fall Meeting (2009)
+• Climatic and Biotic Events of the Paleogene, New Zealand, 2009
+• Northwestern Univ. (2009)
+• Ohio State Univ. (2009)
+• Southern Methodist Univ. (2009)
+• Univ. of Tsukuba (Japan) – Terrestrial Environmental Research Center (2009)
+• Indiana State Univ. (2008)
+• Keynote - 6th International Conference on Applications of Stable Isotope Techniques to Ecological Studies  (2008)
+• Joint Biology and Geosciences Dept. Seminar, Western Michigan Univ. (2008)
+• Indiana Univ./Purdue Univ. Indianapolis (2007)
+• Geology Colloquium, Univ. Illinois (2006)
+• Quaternary Paleoecology Seminar, Univ. Minnesota (2006)
+• Univ. Lisbon - Institute of Scientific and Applied Technology (2006)
+• Stable Isotopes as Recorders of Ecological Change: A BASIN Workshop, Tomar, Portugal (2006)
+• Darwin Center Lecture, Univ. Utrecht (2006)
+• Geological Society of America National Meeting (2005)
+• Earth Systems Processes 2 (2005)
+• Guy F. Atkinson Distinguished Lecture Series, Univ. of Utah (2005)
+• Lewis Weeks Lecture Series, Univ. of Wisconsin (2005)
 
 Volunteered Presentations:
-* Forensic Isotope Ratio Mass Spectrometry Network Conference (2019, 2010, 2007)
-* European Geophysical Union General Assembly (2018, 2013, 2012)
-* American Geophysical Union Fall Meeting (2017, 2011, 2010, 2008, 2007, 2006, 2004, 2003, 2002, 2001)
-* Geological Society of America National Meeting (2016, 2013, 2009, 2008, 2007, 2004, 2002, 2000, 1999)
-* IAEA International Symposium on Isotope Hydrology (2015)
-* 8th International Conference on Applications of Stable Isotope Techniques to Ecological Studies (2012)
-* British Ecological Society Annual Meeting (2010)
-* Forensic Isotope Ratio Mass Spectrometry Network Conference (2010, 2007)
-* Texas A&M University (2010)
-* University of East Anglia (2010)
-* Purdue University - Forestry and Natural Resources Dept. Seminar (2009)
-* Earlham College (2006)
-* Univ. Newcastle - College of Engineering and Geoscience (2006)
-* 5th International Conference on Applications of Stable Isotope Techniques to Ecological Studies (2006)
-* Brown Univ. (2005)
-* Purdue Univ. (2005)
-* Univ. of Wyoming (2005)
-* 4th International Conference on Applications of Stable Isotope Techniques to Ecological Studies (2004)
-* Society of Vertebrate Paleontology Annual Meeting (2004, 2003)
-* Ohio State Univ. (2004)
-* Rice Univ. (2004)
-* Univ. Chicago (2004)
-* Univ. New Hampshire (2004)
-* IUGS/ICS Symposium on the Paleogene (2003)
-* International Conference on the Climate and Biota of the Early Paleogene (2001)
+• Forensic Isotope Ratio Mass Spectrometry Network Conference (2019, 2010, 2007)
+• European Geophysical Union General Assembly (2018, 2013, 2012)
+• American Geophysical Union Fall Meeting (2017, 2011, 2010, 2008, 2007, 2006, 2004, 2003, 2002, 2001)
+• Geological Society of America National Meeting (2016, 2013, 2009, 2008, 2007, 2004, 2002, 2000, 1999)
+• IAEA International Symposium on Isotope Hydrology (2015)
+• 8th International Conference on Applications of Stable Isotope Techniques to Ecological Studies (2012)
+• British Ecological Society Annual Meeting (2010)
+• Forensic Isotope Ratio Mass Spectrometry Network Conference (2010, 2007)
+• Texas A&M University (2010)
+• University of East Anglia (2010)
+• Purdue University - Forestry and Natural Resources Dept. Seminar (2009)
+• Earlham College (2006)
+• Univ. Newcastle - College of Engineering and Geoscience (2006)
+• 5th International Conference on Applications of Stable Isotope Techniques to Ecological Studies (2006)
+• Brown Univ. (2005)
+• Purdue Univ. (2005)
+• Univ. of Wyoming (2005)
+• 4th International Conference on Applications of Stable Isotope Techniques to Ecological Studies (2004)
+• Society of Vertebrate Paleontology Annual Meeting (2004, 2003)
+• Ohio State Univ. (2004)
+• Rice Univ. (2004)
+• Univ. Chicago (2004)
+• Univ. New Hampshire (2004)
+• IUGS/ICS Symposium on the Paleogene (2003)
+• International Conference on the Climate and Biota of the Early Paleogene (2001)
 
 Courses Taught (enrollment):
+Fall 2022	GEO 5675, Paleoclimate Reconstruction; Univ. Utah (10)
+Fall 2022	GEO 2100, Reactive Earth; Univ. Utah (9)
+Summer 2022	GEO 7474, Isotopes in Spatial Ecology and Biogeochemistry; Univ. Utah (22)
+Spring 2022	GEO 2100, Reactive Earth; Univ. Utah (16)
+Fall 2021	GEO 6680, The Carbon Cycle; Univ. Utah (12)
+Summer 2021	GEO 7474, Isotopes in Spatial Ecology and Biogeochemistry; Univ. Utah (19)
 Spring 2021	GEO 2100, Reactive Earth; Univ. Utah (11)
-Spring 2021	GEO 2100, Field Methods; Univ. Utah (44)
+Spring 2021	GEO 4500, Field Methods; Univ. Utah (44)
 Fall 2020	GEO 2100, Reactive Earth; Univ. Utah (17)
 Spring 2020	GEO 6680, The Carbon Cycle; Univ. Utah (21)
 Fall 2019	GEO 6950, Reviews in Earth Science; Univ. Utah (8)
-Summer 2019	GEO 7920, Isotopes in Spatial Ecology and Biogeochemistry; Univ. Utah (21)
-Summer 2018	GEO 7920, Isotopes in Spatial Ecology and Biogeochemistry; Univ. Utah (21)
+Summer 2019	GEO 7474, Isotopes in Spatial Ecology and Biogeochemistry; Univ. Utah (21)
+Summer 2018	GEO 7474, Isotopes in Spatial Ecology and Biogeochemistry; Univ. Utah (21)
 Spring 2018	GEO 1000, Natural Disasters; Univ. Utah (79)
-Summer 2017	GEO 7920, Isotopes in Spatial Ecology and Biogeochemistry; Univ. Utah (21)
+Summer 2017	GEO 7474, Isotopes in Spatial Ecology and Biogeochemistry; Univ. Utah (21)
 Spring 2017	GEO 1000, Natural Disasters; Univ. Utah (69)
 Fall 2016	GEO 6950, Reviews in Earth Science; Univ. Utah (11)
-Summer 2016	GEO 7920, Isotopes in Spatial Ecology and Biogeochemistry; Univ. Utah (16)
+Summer 2016	GEO 7474, Isotopes in Spatial Ecology and Biogeochemistry; Univ. Utah (16)
 Spring 2016	GEO 1000, Natural Disasters; Univ. Utah (63)
 Fall 2015	GEO 6920, Isotope Hydrology; Univ. Utah (7)
-Summer 2015	GEO 7920, Isotopes in Spatial Ecology and Biogeochemistry; Univ. Utah (23)
+Summer 2015	GEO 7474, Isotopes in Spatial Ecology and Biogeochemistry; Univ. Utah (23)
 Spring 2015	GEO 6680, The Carbon Cycle; Univ. Utah (5)
 Fall 2014	GEO 6675, Paleoclimate Reconstruction; Univ. Utah (11)
-Summer 2014	GEO 7920, Isotopes in Spatial Ecology and Biogeochemistry; Univ. Utah (23)
+Summer 2014	GEO 7474, Isotopes in Spatial Ecology and Biogeochemistry; Univ. Utah (23)
 Spring 2014	GEO 6920, The Carbon Cycle; Univ. Utah (9)
 Fall 2013	GEO 6920, Isotope Hydrology; Univ. Utah (11)
-Summer 2013	GEO 7920, Isotopes in Spatial Ecology and Biogeochemistry; Univ. Utah (26)
+Summer 2013	GEO 7474, Isotopes in Spatial Ecology and Biogeochemistry; Univ. Utah (26)
 Spring 2013	GEO 6920, Paleoclimate Reconstruction; Univ. Utah (19)
 Spring 2012	EAS 106, Earth Science in the Cinema; Purdue Univ. (153)
 Fall 2011	EAS 106, Earth Sciences in the Cinema; Purdue Univ. (144)
@@ -434,36 +463,38 @@ Spring 2006	EAS 390, Geologic Field Methods; Purdue Univ. (7)
 Fall 2005	BIO 6921, Isotopics; Univ. Utah (6)
 
 Postdoctoral Researchers Advised:
-Alejandro Serna (2021 � present)
-Kirsten Verostick (2021 � present)
-Deming Yang (2021 � present)
-Scott Allen (2019 � 2020; currently Assistant Professor; Univ. of Nevada, Reno)
-Jessica Guo (2019 � 2020; currently Research Statistician, Univ. of Arizona)
-Sarah Magozzi (2017 � 2020; currently Postdoctoral Researcher, Fano Marine Center)
-Chao Ma (2017 � 2019; currently Assistant Professor, Chengdu Univ. of Technology)
-Richard Fiorella (2016 � 2018; currently Research Assistant Professor, Univ. of Utah Geology & Geophysics)
-Rose Smith (2016 � 2018; currently Research Assistant Professor, Univ. of Utah Biology)
-Erik Oerter (2015 � 2016; currently Research Scientist, LLNL)
-Hannah Vander Zanden (2013 � 2016; currently Assistant Professor of Biology, Univ. of Florida)
-Samantha Weintraub (2014 � 2016; currently Staff Biogeochemist, National Ecological Observatory Network)
-Stephen Good (2013 � 2015; currently Assistant Professor of Biological and Ecological Engineering, Oregon State Univ.)
-Jeremy Stalker (2010 � 2011; currently Associate Professor of Biology & Marine Sciences, Jacksonville Univ.)
-Casey Kennedy (2008 � 2011; currently Research Hydrologist, USDA)
-Zhongfang Liu (2009 � 2011; currently Professor of Marine Geology, Tongji Univ., Shanghai)
-Aya Schneider-Mor (2007 � 2009; currently Research Scientist, Geological Survey of Israel)
+Dustin Harper (2022 – present)
+Chris Stantis (2022 - present)
+Kirsten Verostick (2021 – present)
+Deming Yang (2021 – present)
+Alejandro Serna (2021 – 2022; currently Marie Curie Fellow, University of York)
+Scott Allen (2019 – 2020; currently Assistant Professor; Univ. of Nevada, Reno)
+Jessica Guo (2019 – 2020; currently Research Statistician, Univ. of Arizona)
+Sarah Magozzi (2017 – 2020; currently Postdoctoral Researcher, Fano Marine Center)
+Chao Ma (2017 – 2019; currently Professor, Chengdu Univ. of Technology)
+Richard Fiorella (2016 – 2018; currently Postdoctoral Fellow, Los Alamos National Lab)
+Rose Smith (2016 – 2018; currently Stream Ecologist, Sageland Collaborative)
+Erik Oerter (2015 – 2016; currently Staff Scientist, Lawrence Livermore National Lab)
+Hannah Vander Zanden (2013 – 2016; currently Assistant Professor of Biology, Univ. of Florida)
+Samantha Weintraub (2014 – 2016; currently Staff Biogeochemist, National Ecological Observatory Network)
+Stephen Good (2013 – 2015; currently Associate Professor of Biological and Ecological Engineering, Oregon State Univ.)
+Jeremy Stalker (2010 – 2011; currently Associate Professor of Biology & Marine Sciences, Jacksonville Univ.)
+Casey Kennedy (2008 – 2011; currently Research Hydrologist, US Department of Agriculture)
+Zhongfang Liu (2009 – 2011; currently Professor of Marine Geology, Tongji Univ., Shanghai)
+Aya Schneider-Mor (2007 – 2009; currently Research Scientist, Geological Survey of Israel)
 
 Graduate Students Advised:
 Paige Austin (Ph.D., current)
 Kyle Brennan (Ph.D., current)
-Francesca Spencer (M.S., current)
-Brenden Fischer-Femal (Ph.D., current)
+Francesca Spencer (M.S., UU, 2022; currently Analytical Chemist, NMS Labs)
+Brenden Fischer-Femal (Ph.D., UU, 2022; currently Postdoctoral Research Associate, NASA/GSFC)
 Annie Putman (Ph.D., UU, 2019; currently Research Hydrologist, US Geological Survey)
 Crystal Tulley-Cordova (Ph.D., UU, 2019; currently Senior Hydrologist, Navajo Nation Water Management Branch)
-Yusuf Jameel (Ph.D., UU, 2018; currently Postdoctoral Researcher, MIT)
+Yusuf Jameel (Ph.D., UU, 2018; currently Research Manager, Project Drawdown)
 Dylana Watford (M.S., UU, 2015; currently secondary school science teacher)
-Clement Bataille (Ph.D., UU, 2014; currently Assistant Professor, Earth and Environmental Sciences, Univ. of Ottawa)
+Clement Bataille (Ph.D., UU, 2014; currently Associate Professor, Earth and Environmental Sciences, Univ. of Ottawa)
 Bianca Maibauer (M.S., UU, 2013; currently Staff Geoscientist, Chevron)
-Justin VanDeVelde (Ph.D., PU, 2012)
+Justin VanDeVelde (Ph.D., PU, 2012; currently Research Laboratory Technician Lead, Univ. of Michigan)
 Kristine Nielson (Ph.D. unfinished; currently Research Geochemist, Univ. of Adelaide)
 
 Graduate Committee Service:
@@ -493,76 +524,83 @@ Zhiwei Zhang (M.S., 2011)
 David Maase (M.S., 2010)
 
 Undergraduate and High School Employees and Mentees:
-Alli Hofmann (2021 � present)
-Cynthia Wang (2019 � present)
-Mallory Philliber (2020 � 2021)
-Sarah Cronin (2020 � 2020)
-Preston Tubach (2019 � 2020)
-Michelle Williams (2019 � 2020)
-Sam Carter (2017 � 2020)
-Kailee Pinney (2017 � 2018)
-Griffin Siebert (2016 � 2017)
-Savahnna Cunningham (2015 � 2016)
-Christine Woltz (2015 � 2016)
-Alex Lowe (2012 � 2015)
-Amy Steimke (2012 � 2014)
-Stephen Ruegg (2012 � 2014)
-Juliana Newman (Jefferson High School, 2011 � 2012)
-Vishnu Srinivasaraghavan (2010 � 2012)
-Derek Bessler (2007 � 2010)
+Rylie Burke (2022 – present)
+Hannah Lacey (2022 – present)
+Ilinca Mocuta (2022 - present)
+Alli Hofmann (2021 – 2022)
+Cynthia Wang (2019 – 2021)
+Mallory Philliber (2020 – 2021)
+Sarah Cronin (2020 – 2020)
+Preston Tubach (2019 – 2020)
+Michelle Williams (2019 – 2020)
+Sam Carter (2017 – 2020)
+Kailee Pinney (2017 – 2018)
+Griffin Siebert (2016 – 2017)
+Savahnna Cunningham (2015 – 2016)
+Christine Woltz (2015 – 2016)
+Alex Lowe (2012 – 2015)
+Amy Steimke (2012 – 2014)
+Stephen Ruegg (2012 – 2014)
+Juliana Newman (Jefferson High School, 2011 – 2012)
+Vishnu Srinivasaraghavan (2010 – 2012)
+Derek Bessler (2007 – 2010)
 Cheyne Gevard (2009)
-Shawn Dedeker (2008 � 2009)
-Ashley Sankari (Jefferson High School, 2007 � 2009)
-Jesse Greene (2006 � 2008)
-Ellen Pittsford (2006 � 2007)
-Andy Daniels (UCSC, 2003 � 2004)
+Shawn Dedeker (2008 – 2009)
+Ashley Sankari (Jefferson High School, 2007 – 2009)
+Jesse Greene (2006 – 2008)
+Ellen Pittsford (2006 – 2007)
+Andy Daniels (UCSC, 2003 – 2004)
 
 Visiting Scientists Hosted
-09/16 � 09/18 	Zhongyin Cai (Ph.D. candidate, CAS-ITPR)
+05/23	Fabian Bernhard (Ph.D. candidate, Swiss Federal Inst. WSL)
+04/23	Alana Mahabir (Research Scientist, Water Resource Agency of Trinidad & Tobago)
+09/16 – 09/18 	Zhongyin Cai (Ph.D. candidate, CAS-ITPR)
 09/15	Marco Ciolfi (Research Scientist, CNR-IBAF)
 08/15	Paul Szejner (Ph.D. candidate, Univ. of Arizona)
 08/13, 10/14	Sarah Stein (Ph.D. candidate, Purdue Univ.)
 07/11	Christophe Sturm (Professor, Univ. of Stockholm)
 06/10	Brigitte Berquist (National Geospatial Intelligence Agency)
 04/10	Rob Posey (Ph.D. candidate, Univ. of East Anglia)
-09/08 � 05/09	Nathan English (Ph.D. candidate, Univ. of Arizona)
+09/08 – 05/09	Nathan English (Ph.D. candidate, Univ. of Arizona)
 
 Professional Affiliations:
-* American Geophysical Union
-* British Ecological Society
-* European Geosciences Union
-* Geological Society of America
+• American Geophysical Union
+• British Ecological Society
+• European Geosciences Union
+• Geological Society of America
 
 Media/Science News Coverage:
-* Expert reference for Atlantic article on hurricanes and climate change (http://theatln.tc/2Eg6eED) (2017)
-* Science paper on global water balance reported in several online and radio sources (http://bit.ly/1Ej3Ag1) (2015)
-* Work on isotopic fingerprint of water derived from fossil fuel combustion featured in online science news services and in local print, radio, and television reports (http://bit.ly/1wHzcIF) (2015)
-* Paper documenting pattern and pace of PETM carbon release highlighted in ~50 news reports, including pieces in Science Magazine, nbcnews.com, the International Business Times, Science Daily, Nature World News, and the NSF homepage (2014)
-* Research on Holocene atmospheric circulation and North American winter weather featured on regional and national media outlets including The Atlantic, Climate Central, Nature World News, Science Daily, and feature story on KCPW (http://bit.ly/1r19Fnc) (2014)
-* Crowd-sourced citizen science project to sample rainwater from Superstorm Sandy featured widely in blog and online news reports (2012-2013)
-* Research on carbon cycle feedbacks during the PETM was featured in ~12 national and international news sources (2011)
-* Research on human hair isotope ratios as a marker of geographic origin was featured on National Public Radio and in over 80 online and print news sources (2008)
-* Research on geospatial stable isotope ratio patterns was featured in news articles in Nature and Conservation in Practice (both 2006)
-* Project on clays and the Paleoecene/Eocene boundary carbon cycle was highlighted in a news article for Science (2005)
-* Work on mammal migration at the Paleocene/Eocene boundary was featured on the Discovery Channel Canada (TV), in a Science magazine News & Views article (print), in news pieces carried by Newsday, the Seattle Times, San Francisco Chronicle, Calgary Herald, Toronto Globe and Mail, and Science News Magazine (all print), and reports on Scientific American Online and Bio.com (web; all 2002)
+• Work to develop tooth enamel isoscapes for human identification featured in online and broadcast news (http://bit.ly/3AakxK5, http://bit.ly/3topA5N) (2022)
+• Expert reference for Atlantic article on hurricanes and climate change (http://theatln.tc/2Eg6eED) (2017)
+• Science paper on global water balance reported in several online and radio sources (http://bit.ly/1Ej3Ag1) (2015)
+• Work on isotopic fingerprint of water derived from fossil fuel combustion featured in online science news services and in local print, radio, and television reports (http://bit.ly/1wHzcIF) (2015)
+• Paper documenting pattern and pace of PETM carbon release highlighted in ~50 news reports, including pieces in Science Magazine, nbcnews.com, the International Business Times, Science Daily, Nature World News, and the NSF homepage (2014)
+• Research on Holocene atmospheric circulation and North American winter weather featured on regional and national media outlets including The Atlantic, Climate Central, Nature World News, Science Daily, and feature story on KCPW (http://bit.ly/1r19Fnc) (2014)
+• Crowd-sourced citizen science project to sample rainwater from Superstorm Sandy featured widely in blog and online news reports (2012-2013)
+• Research on carbon cycle feedbacks during the PETM was featured in ~12 national and international news sources (2011)
+• Research on human hair isotope ratios as a marker of geographic origin was featured on National Public Radio and in over 80 online and print news sources (2008)
+• Research on geospatial stable isotope ratio patterns was featured in news articles in Nature and Conservation in Practice (both 2006)
+• Project on clays and the Paleoecene/Eocene boundary carbon cycle was highlighted in a news article for Science (2005)
+• Work on mammal migration at the Paleocene/Eocene boundary was featured on the Discovery Channel Canada (TV), in a Science magazine News & Views article (print), in news pieces carried by Newsday, the Seattle Times, San Francisco Chronicle, Calgary Herald, Toronto Globe and Mail, and Science News Magazine (all print), and reports on Scientific American Online and Bio.com (web; all 2002)
 
 Community Leadership:
-?	Associate Editor, Science Advances (2021 � present)
-?	Member, AGU Union Fellows Committee (2021 � present)
-?	Member, NEON Atmospheric Isotopes Technical Working Group (2020 � present)
-?	Core Member, US CLIVAR Water Isotope Working Group (2018 � present)
-?	Steering Committee, EarthRates RCN (2018 � present)
-?	Developed and coordinated annual, 2-week, multi-institutional, multi-instructor graduate short course Isotopes in Spatial Ecology and Biogeochemistry (2013 � present)
-?	Advisory Board, American Chemical Society-Petroleum Research Fund (2016 � 2021)
-?	Chair, NEON Atmospheric Isotopes Technical Working Group (2018 � 2020)
-?	Associate Editor, Paleoceanography (2016 � 2020)
-?	Steering Committee, NSF-RCN on Improving Reconstructions of Cenozoic pCO2 and Temperature Change (2016 � 2019)
-?	Member, NEON Biogeochemistry Technical Working Group (2012 � 2017)
-?	Associate Editor, Methods in Ecology and Evolution (2009 � 2013)
-?	Membership representative, DOSECC (2010 � 2012)
-?	Associate Editor, Journal of Geochemical Exploration (2007 � 2010)
-?	Executive Committee, Biogeosphere-Atmosphere Stable Isotope Network (2006 � 2011)
-?	Meeting organizer:
+•	Associate Editor, Science Advances (2021 – present)
+•	Member, AGU Union Fellows Committee (2021 – present)
+•	Member, NEON Atmospheric Isotopes Technical Working Group (2020 – present)
+•	Developed and coordinated annual, 2-week, multi-institutional, multi-instructor graduate short course Isotopes in Spatial Ecology and Biogeochemistry (2013 – present)
+•	Steering Committee, EarthRates RCN (2018 – 2022)
+•	Core Member, US CLIVAR Water Isotope Working Group (2018 – 2021)
+•	Advisory Board, American Chemical Society-Petroleum Research Fund (2016 – 2021)
+•	Chair, NEON Atmospheric Isotopes Technical Working Group (2018 – 2020)
+•	Associate Editor, Paleoceanography (2016 – 2020)
+•	Steering Committee, NSF-RCN on Improving Reconstructions of Cenozoic pCO2 and Temperature Change (2016 – 2019)
+•	Member, NEON Biogeochemistry Technical Working Group (2012 – 2017)
+•	Associate Editor, Methods in Ecology and Evolution (2009 – 2013)
+•	Membership representative, DOSECC (2010 – 2012)
+•	Associate Editor, Journal of Geochemical Exploration (2007 – 2010)
+•	Executive Committee, Biogeosphere-Atmosphere Stable Isotope Network (2006 – 2011)
+•	Meeting organizer:
+Organizer of workshop on The Future of IsoBank (June 2023, Park City, UT)
 Lead organizer of 1st ORIGIN Workshop on Data and Software Tools for Migration Science (November 2017, Snowbird, UT)
 Co-organizer of Climatic and Biotic Events of the Early Paleogene (September 2017, Snowbird, UT)
 Organizing committee for Integrated Carbon and Water Ecological and Biogeochemical Synthesis Conference (March 2017, Stevenson, WA)
@@ -571,36 +609,39 @@ Organizing committee for 3rd Macrosystems Biology PI Meeting (June 2014, Washing
 Organizing committee for 1st Macrosystems Biology PI Meeting (March 2012, Boulder, CO)
 Lead organizer of Isoscapes2011 (http://isoscapes2011.org, 60 U.S. and international participants)
 Lead organizer of Isoscapes2008: Isotope Mapping and its Applications (http://isoscapes2008.wordpress.com/, 125 U.S. and international participants)
-?	Session convener, American Geophysical Union Fall Meeting (2016, 2012, 2008, 2006)
-?	Developed and maintain web site (http://www.waterisotopes.org) providing scientific and educational content on stable isotope ratios of water, serving >5,000 unique visitors/year.
-?	Led development of isomap.org (http://isomap.org), a community cyber-GIS resource for mapping, analyzing, and modeling spatiotemporal environmental isotope data, currently supporting >650 registered users.
+•	Session convener, American Geophysical Union Fall Meeting (2016, 2012, 2008, 2006)
+•	Developed and maintain web site (http://www.waterisotopes.org) providing scientific and educational content on stable isotope ratios of water, serving >5,000 unique visitors/year.
+•	Led development of isomap.org (http://isomap.org), a community cyber-GIS resource for mapping, analyzing, and modeling spatiotemporal environmental isotope data, currently supporting >650 registered users.
 
 Institutional Leadership:
-?	Co-director, SIRFER Lab, Univ. Utah (2013 � present)
-?	Executive Board, Purdue Climate Change Research Center (2010 � 2012)
-?	Founding director, Purdue Stable Isotope Recharge Center (2008 � 2012)
-?	Departmental service
-		Chair, Faculty search committee, Univ. Utah G&G Department (2020 � 2021)
-		Chair, Hiring committee, Univ. Utah G&G Department (2018 � 2019)
-		Associate Chair, Univ. Utah G&G Department (2017 � 2018)
-		Chair, Outreach and development committee, Univ. Utah G&G Department (2017 � 2018)
-Executive committee, Univ. Utah G&G Department (2013 � 2018)
-Chair, Graduate affairs committee, Univ. Utah G&G Department (2013 � 2017)
-Space committee, Univ. Utah G&G Department (2012 � 2013)
-Graduate affairs committee, Univ. Utah G&G Department (2012 � 2013)
-Chair, Graduate committee, Purdue EAS Department (2011 � 2012)
-Executive committee, Purdue EAS Department (2011 � 2012)
-Graduate committee, Purdue EAS Department (2010 � 2012)
-Field committee, Purdue EAS Department (2006 � 2012)
-Seminar committee, Purdue EAS Department (2006 � 2011)
-?	University service
-Faculty affairs committee, Univ. Utah College of Mines and Earth Science (2016 � 2018, 2019 � 2021) 
-Search committee, Society, Water and Climate faculty cluster hire, Univ. Utah (2014 � 2017)
-Search committee, Vice President for Research, Univ. Utah (2015 � 2016)
-Chair, Distinguished lecture series committee, Univ. Utah College of Mines and Earth Science (2012 � 2013)
+•	Director, SIRFER Lab, Univ. Utah (2023 – present)
+•	Co-director, SIRFER Lab, Univ. Utah (2013 – 2022)
+•	Executive Board, Purdue Climate Change Research Center (2010 – 2012)
+•	Founding director, Purdue Stable Isotope Recharge Center (2008 – 2012)
+•	Departmental service (selected)
+		Chair, Faculty Review committee, Univ. Utah G&G Department (2022 – present)
+		Chair, Faculty search committee, Univ. Utah G&G Department (2020 – 2021)
+		Chair, Hiring committee, Univ. Utah G&G Department (2018 – 2019)
+		Associate Chair, Univ. Utah G&G Department (2017 – 2018)
+		Chair, Outreach and development committee, Univ. Utah G&G Department (2017 – 2018)
+Executive committee, Univ. Utah G&G Department (2013 – 2018)
+Chair, Graduate affairs committee, Univ. Utah G&G Department (2013 – 2017)
+Space committee, Univ. Utah G&G Department (2012 – 2013)
+Graduate affairs committee, Univ. Utah G&G Department (2012 – 2013)
+Chair, Graduate committee, Purdue EAS Department (2011 – 2012)
+Executive committee, Purdue EAS Department (2011 – 2012)
+Graduate committee, Purdue EAS Department (2010 – 2012)
+Field committee, Purdue EAS Department (2006 – 2012)
+Seminar committee, Purdue EAS Department (2006 – 2011)
+•	University service
+College Council, Univ. Utah College of Mines and Earth Science (2021 – 2023)
+Faculty affairs committee, Univ. Utah College of Mines and Earth Science (2016 – 2018, 2020 – 2023) 
+Search committee, Society, Water and Climate faculty cluster hire, Univ. Utah (2014 – 2017)
+Search committee, Vice President for Research, Univ. Utah (2015 – 2016)
+Chair, Distinguished lecture series committee, Univ. Utah College of Mines and Earth Science (2012 – 2013)
 
 Professional Service:
-?	Manuscript reviews: 
+•	Manuscript reviews: 
 Agricultural and Forest Meteorology (2020)
 American Journal of Physical Anthropology (2009)
 American Journal of Science (2013)
@@ -610,10 +651,10 @@ Arctic and Alpine Research (2006)
 BioAnalysis (2013)
 Bioscience (2018)
 Canadian Journal of Earth Sciences (2006)
-Climate of the Past Discussions (2011, 2010)
+Climate of the Past (2021, 2011, 2010)
 Diversity (2019)
 Diversity and Distributions (2006)
-Earth and Planetary Science Letters (2019, 2018, 2016, 2015, 2014, 2011, 2010, 2008, 2006, 2005, 2003)
+Earth and Planetary Science Letters (2021, 2019, 2018, 2016, 2015, 2014, 2011, 2010, 2008, 2006, 2005, 2003)
 Ecology (2009)
 Ecosphere (2016, 2012)
 Elsevier Books (2006)
@@ -623,7 +664,7 @@ Forensic Chemistry (2020)
 Geochemistry, Geophysics, Geosystems (2021, 2012)
 Geochimica et Cosmochimica Acta (2019, 2015, 2013, 2012, 2010, 2005, 2004)
 Geological Society of America Books (2005)
-Geology (2020, 2019, 2014, 2005 � 2012, inclusive)
+Geology (2022, 2021, 2020, 2019, 2014, 2005 – 2012, inclusive)
 Geophysical Research Letters (2020, 2018, 2015, 2009, 2007)
 Global and Planetary Change (2014, 2009)
 Global Biogeochemical Cycles (2007, 2005, 2004)
@@ -645,21 +686,21 @@ Limnology and Oceanography (2017, 2012)
 Marine Ecology (2020)
 Methods in Ecology and Evolution (2018)
 Mineralogical Society of America Books (2007)
-Nature (2015, 2014, 2012, 2008, 2007, 2006, 2005, 2004)
+Nature (2021, 2015, 2014, 2012, 2008, 2007, 2006, 2005, 2004)
 Nature Communications (2018)
 Nature Geoscience (2018, 2014)
 Oecologia (2018, 2017, 2015, 2008, 2005, 2004)
 Palaeogeography, Palaeoclimatology, Palaeoecology (2020, 2017, 2015, 2013, 2006)
 Palaios (2010)
 Paleobiology (2011, 2006)
-Paleoceanography and Paleoclimatology (2020, 2016, 2013, 2011, 2007)
+Paleoceanography and Paleoclimatology (2022, 2020, 2016, 2013, 2011, 2007)
 Philosophical Transactions of the Royal Society (2007)
 PLoS ONE (2019, 2015, 2012, 2011)
-Proceedings of the National Academy of Sciences (2020, 2019, 2018, 2016, 2015, 2010, 2009)
+Proceedings of the National Academy of Sciences (2021, 2020, 2019, 2018, 2016, 2015, 2010, 2009)
 Quaternary Science Reviews (2009)
 Rapid Communications in Mass Spectrometry (2019, 2016, 2013, 2011, 2009, 2007, 2006)
 Science (2017, 2011, 2010, 2009)
-Science Advances (2015)
+Science Advances (2021, 2015)
 Science of the Total Environment (2015)
 Scientific Reports (2020, 2016)
 The Auk (2006, 2005)
@@ -667,8 +708,8 @@ The Condor (2006)
 Trends in Ecology and Evolution (2005)
 Water (2020)
 Water Management (2013)
-Water Resources Research (2020, 2019, 2018, 2017, 2010, 2018)
-?	Proposal reviews: 
+Water Resources Research (2021, 2020, 2019, 2018, 2017, 2010, 2018)
+•	Proposal reviews: 
 		American Chemical Society-Petroleum Research Fund (2013, 2008, 2007)
 		Fonds National de la Recherche Luxembourg (2020)
 		Kansas EPSCoR (2014)
@@ -676,13 +717,14 @@ Water Resources Research (2020, 2019, 2018, 2017, 2010, 2018)
 		Netherlands Organization for Scientific Research (2006)
 		Swiss National Science Foundation (2009)
 		Univ. of Alaska Center for Global Change (2010)		
-		U.S. National Science Foundation (2004 � present, inclusive)
+		U.S. National Science Foundation (2004 – present, inclusive)
 		U.S. Civilian Research and Development Foundation (2008)
 		U.S. Department of Agriculture (2010, 2008)
-?	Panel service:
-	National Science Foundation (2020 � 2016, 2014, 2013, 2012, 2010)
+•	Panel service:
+	National Science Foundation (2020 – 2016, 2014, 2013, 2012, 2010)
 	National Science Foundation LTER Site Visit (2017) 
-?	Lecturer:
+•	Lecturer:
+FoodTraNet Summer School (Fondazione Edmund Mach, Italy; 2022)
 Workshop on Optimizing Design of Isotope-based Movement Ecology Projects (IsoEcol conference, 2021)
 		Stable Isotope Ecology Graduate Course (Gothenburg Univ., Sweden; 2019)
 Isoscapes Training Course (FIRMS conference, Italy; 2019)
@@ -690,10 +732,10 @@ Migration Ecology Training Course (IsoEcol conference, Chile; 2018)
 3rd International Summer School on Stable Isotopes in Animal Ecology (Leibnitz Institute for Zoo and Wildlife Biology, Germany; 2018)	
 FEM Summer School on Isotopes and Isoscapes (Fondazione Edmund Mach, Italy; 2017)
 Stable Isotopes in Ecology and Environmental Science (Univ. Seville, Spain; 2015, 2014)
-Urbino Summer School in Paleoclimatology (Univ. Urbino, Italy; 2018, 2016, 2014, 2012, 2011, 2008, 2006)
-Short course on Stable Isotopes in Ecology (Univ. of Utah; 2017, 2006 � 2012, inclusive)
+Urbino Summer School in Paleoclimatology (Univ. Urbino, Italy; 2023, 2018, 2016, 2014, 2012, 2011, 2008, 2006)
+Short course on Stable Isotopes in Ecology (Univ. of Utah; 2017, 2006 – 2012 inclusive)
 Short course on Greenhouse Climate and Carbon Cycle Dynamics: Lessons from the Early Ceonozoic (Univ. of Bremen, Germany; 2004)
-?	Invited workshop participant:
+•	Invited workshop participant:
 IAEA CRP Workshop on Use of Isotope Techniques for the Evaluation of Water Sources for Domestic Supply in Urban Areas (virtual; 2021)
 IAEA CRP Workshop on Use of Isotope Techniques for the Evaluation of Water Sources for Domestic Supply in Urban Areas (IAEA, Vienna, Austria; 2018)
 IAEA CRP Workshop on Integrated Analytical Techniques for Food Forensics and Contaminant Control (Jozef Stefan Institute, Slovenia; 2018)
@@ -716,5 +758,5 @@ NCAR Workshop on PETM Data-Model Integration (Santa Fe, NM; 2007)
 
 Bowen CV Page 3/24
 
-Bowen CV 10/12/2021
+Bowen CV 9/26/2023
 
