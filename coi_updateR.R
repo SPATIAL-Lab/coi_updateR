@@ -1,3 +1,9 @@
+####
+#Save CV as .txt
+#Make sure Bowen_COI.xlsx contains current coauthors list
+#Run code
+#Add missing affiliations
+
 #library(textreadr)
 library(openxlsx)
 source("coi_functions.R")

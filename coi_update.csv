@@ -1,174 +1,192 @@
-,name,affiliation
-1,"Allen, S. T.",Univ. Nevada Reno
-2,"Ammer, S. T. M.",Vrije Univ. Amsterdam
-5,"Anderegg, W. R. L.",Univ. Utah
-6,"Arens, S.",Univ. Utah
-7,"Arnold, T. E.",Univ. Pittsburgh
-8,"Baczynski, A. A.",Penn. State Univ.
-9,"Bares, R.",Univ. Utah
-10,"Bassouni, M.",UC Berkeley
-11,"Bataille, C. P.",Univ. Ottawa
-12,"Belcher, C. M.",Univ. Exeter
-13,"Bhuiyan, S.",Univ. Ottawa
-14,"Bowen, B. B.",Univ. Utah
-16,"Bowling, D. R.",Univ. Utah
-17,"Briefer, L.",SLC Dept. Public Utilities
-18,"Brooks, J. R.",US EPA
-19,"Brooks, P. D.",Univ. Utah
-20,"Burian, S.",Univ. Alabama
-21,"Bustamante-Ortega, R.",CIREN Santiago Chile
-22,"Butler, Z.",Oregon State Univ.
-23,"Buzon, M. R.",Purdue Univ.
-24,"Cai, Z.",Yunnan Univ.
-25,"Carey, A.",Ohio State Univ.
-26,"Cauquoin, A.",Univ. Tokyo
-27,"Cerling, T. E.",Univ. Utah
-28,"Chakraborty, S.","Savitribai Phule Pune Univ., India"
-29,"Chartrand, M. M. G.",Univ. Ottawa
-30,"Chen, D.",Chinese Academy of Sciences
-31,"Chen, Y.",Yunnan Univ.
-32,"Cheng, Y.",NA
-33,"Chesson, L. A.",U.S. DoD
-34,"Chorak, G. M.",Montana St. Univ.
-35,"Clapp, D. F.",Michigan DNR
-36,"Codron, F.",CNRS France
-37,"Collinson, M. E.",Royal Holloway Univ.
-38,"Comeleo, R. L.",US EPA
-39,"Contina, A.",Univ. Utah
-40,"Contreras, S.",Univ. Catolica de la Santsima Concepcion
-41,"Cotton, J. M.",CSU Northridge
-42,"Coulombe, R.","CSS, Inc."
-43,"Courtiol, A.","Leibnitz Inst. Zoology, Germany"
-44,"Crowley, B. E.",Univ. Cincinatti
-45,"Cui, J.",Peking Univ.
-46,"Davidheiser-Kroll, B.",Univ. Colorado
-47,"Denis, E. H.",PNNL
-48,"Dennison, P. E.",Univ. Utah
-49,"Diaz, M.",Ohio State Univ.
-50,"Diefendorf, A. F.",Univ. Cincinatti
-51,"Eglinton, T. I.",ETH Zurich
-52,"Ehleringer, J. R.",Univ. Utah
-53,"Eiriksson, D.",Univ. Utah
-54,"Fasoli, B.",Univ. Utah
-55,"Finkenbiner, C. E.",Oregon State Univ.
-56,"Fiorella, R. P",Los Alamos National Lab
-57,"Fiorella, R. P.",Univ. Utah
-58,"Fischer-Femal, B. J.",Univ. Utah
-59,"Florian, C. R.",NEON
-60,"Foley, C. J",Purdue Univ.
-61,"Foley, K.",Ball Corporation
-62,"Freeman, K. H.",Penn. State Univ.
-63,"Gelderloos, A.",Univ. Utah
-64,"Gomez-Navarro, C.",Univ. Utah
-65,"Good, S. P.",Oregon State Univ.
-66,"Guo, J. S.",Univ. Arizona
-67,"Guo, R.",Chinese Academy of Sciences
-68,"Guo, X.",Chinese Academy of Sciences
-69,"Haagsma, M.",Oregon State Univ.
-70,"Hallar, A. G.",Univ. Utah
-71,"Hanson, C. V.",Oregon State Univ.
-72,"Harrington, G. J.",Univ. Birmingham
-73,"Havranek, R. E.",Univ. of Colorado
-74,"Hawkins, L. R.",NCAR
-75,"He, X.",National Univ. Singapore
-76,"Hinners, S. J.",Univ. Utah
-77,"Hobson, K. A.","Western Univ., Canada"
-78,"Hook, T.",Purdue Univ.
-79,"Horel, J. D.",Univ. Utah
-80,"Horns, J. J.",Univ. Utah
-81,"Howa, J. D.","Isoforensics, Inc"
-82,"Jacques, A. A.",Univ. Utah
-83,"Jamison, L. R.",Univ. Utah
-84,"Janetski, D. J.",IUPUI
-85,"Jardine, P. E.",Open Univ.
-86,"Jian, Z.","Tonji Univ., China"
-87,"Jing, Z.","National Laboratory for Marine Science and Technology, China"
-88,"Johnson, H. M.",USGS
-89,"Ju, S.-J.",Korea Inst. Ocean Sci. and Techology
-90,"Kirkham, T.",SLC Dept. Public Utilities
-91,"Kwon, H. J.",Oregon State Univ.
-92,"Lear, C. H.",Univ. of Cardiff
-93,"Lewis, S.",James Cook Univ.
-94,"Li, B.",Oregon State Univ.
-95,"Li, L. Z. X.",CNRS France
-96,"Li, S.",Tsinghua Univ.
-97,"Li, Y.",Yunnan Univ.
-98,"Lin, J. C.",Univ. Utah
-99,"Liu, Z.","Tongji Univ., China"
-100,"Luo, H.",NEON
-101,"Luo, W.",Chinese Academy of Sciences
-102,"Lyons, B.",Ohio State Univ.
-103,"Ma, C.",Univ. Idaho
-104,"Ma, W.",NA
-105,"Ma, Y.",Chinese Academy of Sciences
-106,"Magozzi, S.",Univ. Utah
-107,"Maibauer, B. J.",Chevron
-108,"McInerney, F. A.","Univ. Adelade, Australia"
-109,"McMahon, K. W.",Univ. Rhode Island
-110,"Mendoza, D. L.",Univ. Utah
-111,"Mitchell, L. E.",Univ. Utah
-112,"Nielson, K. E.","Univ. Adelade, Australia"
-114,"Noone, D. C.",Univ. Auckland
-115,"Oerter, E. J.",Lawrence Livermore National Lab
-116,"Pataki, D. E.",Univ. Utah
-117,"Peers, D.",Univ. Utah
-118,"Pingintha-Durden, N.",NEON
-119,"Pinney, K.",Univ. Utah
-120,"Poulsen, C. J.",Univ. Michigan
-121,"Putman, A. L.",Univ. Utah
-122,"Qu, D.",Chinese Academy of Sciences
-123,"Reichart, G.-J.",Utrecht Univ.
-124,"Risi, C.",CNRS France
-125,"Ruetz III, C. R.",Grand Valley St. Univ.
-126,"Schrader, S. A.",Leiden Univ.
-127,"Scott, W. T.",Univ. Pittsburgh
-128,"Sekercioglu, C. H.",Univ. Utah
-129,"Senegal, T.",Purdue Univ.
-130,"Shah, J. J. F",Univ. Utah
-131,"Shao, L.",Yunnan Univ.
-132,"Siebert, G.",Univ. Utah
-133,"Skiles, S. M.",Univ. Utah
-134,"Sluijs, A.",Utrecht Univ.
-135,"Smith, R. M.",Sageland Collaborative
-136,"Snell, K. E.",Univ. Colorado
-137,"Solomon, D. K.",Univ. Utah
-138,"Spencer, L.",Oregon State Univ.
-139,"Sprenger, M.",NA
-140,"St-Jean, G.",Univ. Ottawa
-141,"Stewart, J.",SLC Dept. Public Utilities
-142,"Still, C. J.",Oregon State Univ.
-143,"Strong, C.",Univ. Utah
-144,"Suh, Y. J.",Korea Inst. Ocean Sci. and Techology
-145,"Tai, X.",New Jersey Inst. Technology
-146,"Tao, J.",Yunnan Univ.
-147,"Thompson, L. G.",Ohio State Univ.
-148,"Tian, L.",Yunnan Univ.
-149,"Trueman, C. N.",Univ. Southampton
-150,"Tulley-Cordova, C. L.",Univ. Utah
-151,"Valenzuela, L. O.",Univ. Nacional de Buenos Aires
-152,"Vander Zanden, H. B.",Univ. Utah
-153,"Vaughn, B.",Univ. Colorado
-154,"Venturas, M. D.",Universidad Politecnica de Madrid
-155,"Voigt, C. C.","Leibnitz Inst. Zoology, Germany"
-156,"Wang, D.",Yunnan Univ.
-157,"Wang, X.",NA
-158,"Wang, Y.",Yunnan Univ.
-159,"Wassenaar, L. I.",Intl. Atomic Energy Agency
-160,"Wei, Z.","Sun Yat-sen Univ., China"
-161,"Werne, J. P.",Univ. Pittsburgh
-162,"Werner, M.",Alfred Wegener Inst.
-163,"West, J. B.",Texas A&M Univ.
-164,"Windler, G.",Univ. Arizona
-165,"Wing, S. L.",Smithsonian Inst.
-166,"Wolf, M. A.",Univ. Utah
-167,"Woo, J.",Purdue Univ.
-168,"Wooller, M. J.","Univ. Alaska, Fairbanks"
-169,"Wu, G.",Chinese Academy of Sciences
-170,"Wu, Q.",Chinese Academy of Sciences
-171,"Wunder, M. B.",Colorado State Univ.
-172,"Xu, B.",Chinese Academy of Sciences
-173,"Yang, D.",NA
-174,"Yoshimura, K.",Univ. Tokyo
-175,"Yu, W.",Chinese Academy of Sciences
-176,"Zhang, J.",Chinese Academy of Sciences
-177,"Zhao, L.",Purdue Univ.
+"","name","affiliation"
+"1","79 others",NA
+"2","Allen, S. T.","Univ. Nevada Reno"
+"3","Ammer, S. T. M.","Vrije Univ. Amsterdam"
+"4","Anderegg, W. R. L.","Univ. Utah"
+"5","Arens, S.","Univ. Utah"
+"6","Arnold, T. E.","Univ. Pittsburgh"
+"7","Baczynski, A. A.","Penn. State Univ."
+"8","Bares, R.","Univ. Utah"
+"9","Bassouni, M.","UC Berkeley"
+"10","Bataille, C. P.","Univ. Ottawa"
+"11","Belcher, C. M.","Univ. Exeter"
+"12","Bhuiyan, S.","Univ. Ottawa"
+"13","Bowen, B. B.","Univ. Utah"
+"14","Bowen, G. J. #",NA
+"15","Bowling, D. R.","Univ. Utah"
+"16","Breecker, D. O. #",NA
+"17","Briefer, L.","SLC Dept. Public Utilities"
+"18","Brooks, J. R.","US EPA"
+"19","Brooks, P. D.","Univ. Utah"
+"20","Burian, S.","Univ. Alabama"
+"21","Bustamante-Ortega, R.","CIREN Santiago Chile"
+"22","Butler, Z.","Oregon State Univ."
+"23","Buzon, M. R.","Purdue Univ."
+"24","Cai, Z.","Yunnan Univ."
+"25","Carey, A.","Ohio State Univ."
+"26","Carpenter, N. A.",NA
+"27","Cauquoin, A.","Univ. Tokyo"
+"28","Cerling, T. E.","Univ. Utah"
+"29","Chakraborty, S.","Savitribai Phule Pune Univ., India"
+"30","Chartrand, M. M. G.","Univ. Ottawa"
+"31","Chen, D.","Chinese Academy of Sciences"
+"32","Chen, Y.","Yunnan Univ."
+"33","Cheng, Y.","National Univ. Singapore"
+"34","Chesson, L. A.","U.S. DoD"
+"35","Chorak, G. M.","Montana St. Univ."
+"36","Clapp, D. F.","Michigan DNR"
+"37","Codron, F.","CNRS France"
+"38","Collins, S. C.",NA
+"39","Collinson, M. E.","Royal Holloway Univ."
+"40","Comeleo, R. L.","US EPA"
+"41","Contina, A.","Univ. Utah"
+"42","Contreras, S.","Univ. Catolica de la Santsima Concepcion"
+"43","Cotton, J. M.","CSU Northridge"
+"44","Coulombe, R.","CSS, Inc."
+"45","Courtiol, A.","Leibnitz Inst. Zoology, Germany"
+"46","Crowley, B. E.","Univ. Cincinatti"
+"47","Cui, J.","Peking Univ."
+"48","Davidheiser-Kroll, B.","Univ. Colorado"
+"49","Denis, E. H.","PNNL"
+"50","Dennison, P. E.","Univ. Utah"
+"51","Diaz, M.","Ohio State Univ."
+"52","Diefendorf, A. F.","Univ. Cincinatti"
+"53","Eglinton, T. I.","ETH Zurich"
+"54","Ehleringer, J. R.","Univ. Utah"
+"55","Eiriksson, D.","Univ. Utah"
+"56","Fasoli, B.","Univ. Utah"
+"57","Fernandez, D. P.",NA
+"58","Finkenbiner, C. E.","Oregon State Univ."
+"59","Fiorella, R. P","Los Alamos National Lab"
+"60","Fiorella, R. P.","Univ. Utah"
+"61","Fischer-Femal, B. J.","Univ. Utah"
+"62","Florian, C. R.","NEON"
+"63","Foley, C. J","Purdue Univ."
+"64","Foley, K.","Ball Corporation"
+"65","Freeman, K. H.","Penn. State Univ."
+"66","Gelderloos, A.","Univ. Utah"
+"67","Ghouri, S.",NA
+"68","Gomez-Navarro, C.","Univ. Utah"
+"69","Good, S. P.","Oregon State Univ."
+"70","Guo, J. S.","Univ. Arizona"
+"71","Guo, R.","Chinese Academy of Sciences"
+"72","Guo, X.","Chinese Academy of Sciences"
+"73","H<f6>nisch, B.#",NA
+"74","Haagsma, M.","Oregon State Univ."
+"75","Hallar, A. G.","Univ. Utah"
+"76","Hanson, C. V.","Oregon State Univ."
+"77","Harrington, G. J.","Univ. Birmingham"
+"78","Havranek, R. E.","Univ. of Colorado"
+"79","Hawkins, L. R.","NCAR"
+"80","He, X.","National Univ. Singapore"
+"81","Hinners, S. J.","Univ. Utah"
+"82","Hobson, K. A.","Western Univ., Canada"
+"83","Hook, T. O.",NA
+"84","Horel, J. D.","Univ. Utah"
+"85","Horns, J. J.","Univ. Utah"
+"86","Howa, J. D.","Isoforensics, Inc"
+"87","Jacques, A. A.","Univ. Utah"
+"88","Jamison, L. R.","Univ. Utah"
+"89","Janetski, D. J.","IUPUI"
+"90","Jardine, P. E.","Open Univ."
+"91","Jian, Z.","Tonji Univ., China"
+"92","Jing, Z.","National Laboratory for Marine Science and Technology, China"
+"93","Johnson, H. M.","USGS"
+"94","Ju, S.-J.","Korea Inst. Ocean Sci. and Techology"
+"95","Kirkham, T.","SLC Dept. Public Utilities"
+"96","Kwon, H. J.","Oregon State Univ."
+"97","Lear, C. H.","Univ. of Cardiff"
+"98","Lewis, S.","James Cook Univ."
+"99","Li, B.","Oregon State Univ."
+"100","Li, L. Z. X.","CNRS France"
+"101","Li, S.","Tsinghua Univ."
+"102","Li, Y.","Yunnan Univ."
+"103","Lin, J. C.","Univ. Utah"
+"104","Liu, Z.","Tongji Univ., China"
+"105","Lopez-Ma<f1>as, R.",NA
+"106","Luo, H.","NEON"
+"107","Luo, W.","Chinese Academy of Sciences"
+"108","Lyons, B.","Ohio State Univ."
+"109","Ma, C.","Univ. Idaho"
+"110","Ma, W.","Second Inst. of Oceanography, China"
+"111","Ma, Y.","Chinese Academy of Sciences"
+"112","Magozzi, S.","Univ. Utah"
+"113","Maibauer, B. J.","Chevron"
+"114","Martins, D. J.",NA
+"115","McInerney, F. A.","Univ. Adelade, Australia"
+"116","McMahon, K. W.","Univ. Rhode Island"
+"117","Mendoza, D. L.","Univ. Utah"
+"118","Mitchell, L. E.","Univ. Utah"
+"119","Nielson, K. E.","Univ. Adelade, Australia"
+"120","Noone, D. C.","Univ. Auckland"
+"121","Oerter, E. J.","Lawrence Livermore National Lab"
+"122","Pataki, D. E.","Univ. Utah"
+"123","Peers, D.","Univ. Utah"
+"124","Pingintha-Durden, N.","NEON"
+"125","Pinney, K.","Univ. Utah"
+"126","Podkovyroff, K.",NA
+"127","Polissar, P. J. #",NA
+"128","Poulsen, C. J.","Univ. Michigan"
+"129","Putman, A. L.","Univ. Utah"
+"130","Qu, D.","Chinese Academy of Sciences"
+"131","Reich, M. S.",NA
+"132","Reichart, G.-J.","Utrecht Univ."
+"133","Risi, C.","CNRS France"
+"134","Royer, D. L. #",NA
+"135","Ruetz III, C. R.","Grand Valley St. Univ."
+"136","Schrader, S. A.","Leiden Univ."
+"137","Scott, W. T.","Univ. Pittsburgh"
+"138","Sekercioglu, C. H.","Univ. Utah"
+"139","Senegal, T.","Purdue Univ."
+"140","Shah, J. J. F","Univ. Utah"
+"141","Shao, L.","Yunnan Univ."
+"142","Siebert, G.","Univ. Utah"
+"143","Skiles, S. M.","Univ. Utah"
+"144","Sluijs, A.","Utrecht Univ."
+"145","Smith, R. M.","Sageland Collaborative"
+"146","Snell, K. E.","Univ. Colorado"
+"147","Solomon, D. K.","Univ. Utah"
+"148","Spencer, L.","Oregon State Univ."
+"149","Sprenger, M.","Lawrence Berkeley National Lab"
+"150","St-Jean, G.","Univ. Ottawa"
+"151","Stewart, J.","SLC Dept. Public Utilities"
+"152","Still, C. J.","Oregon State Univ."
+"153","Strong, C.","Univ. Utah"
+"154","Suh, Y. J.","Korea Inst. Ocean Sci. and Techology"
+"155","Tai, X.","New Jersey Inst. Technology"
+"156","Talavera, G.",NA
+"157","Talla, V. N. K.",NA
+"158","Tao, J.","Yunnan Univ."
+"159","Thompson, L. G.","Ohio State Univ."
+"160","Tian, L.","Yunnan Univ."
+"161","Trueman, C. N.","Univ. Southampton"
+"162","Tulley-Cordova, C. L.","Univ. Utah"
+"163","Uno, K. T.",NA
+"164","Valenzuela, L. O.","Univ. Nacional de Buenos Aires"
+"165","Vander Zanden, H. B.","Univ. Utah"
+"166","Vaughn, B.","Univ. Colorado"
+"167","Venturas, M. D.","Universidad Politecnica de Madrid"
+"168","Vila, R.",NA
+"169","Voigt, C. C.","Leibnitz Inst. Zoology, Germany"
+"170","Wang, D.","Yunnan Univ."
+"171","Wang, X.","Yunnan Univ."
+"172","Wang, Y.","Yunnan Univ."
+"173","Wassenaar, L. I.","Intl. Atomic Energy Agency"
+"174","Wei, Z.","Sun Yat-sen Univ., China"
+"175","Werne, J. P.","Univ. Pittsburgh"
+"176","Werner, M.","Alfred Wegener Inst."
+"177","West, J. B.","Texas A&M Univ."
+"178","Windler, G.","Univ. Arizona"
+"179","Wing, S. L.","Smithsonian Inst."
+"180","Wolf, M. A.","Univ. Utah"
+"181","Woo, J.","Purdue Univ."
+"182","Wooller, M. J.","Univ. Alaska, Fairbanks"
+"183","Wu, G.","Chinese Academy of Sciences"
+"184","Wu, Q.","Chinese Academy of Sciences"
+"185","Wunder, M. B.","Colorado State Univ."
+"186","Xu, B.","Chinese Academy of Sciences"
+"187","Yang, D.","American Museum of Natural History"
+"188","Yoshimura, K.","Univ. Tokyo"
+"189","Yu, W.","Chinese Academy of Sciences"
+"190","Zhang, J.","Chinese Academy of Sciences"
+"191","Zhao, L.","Purdue Univ."

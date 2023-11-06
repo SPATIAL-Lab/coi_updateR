@@ -36,8 +36,9 @@ getpeeps = function(pub, peeps){
   ind.e = regexpr("\\(", pub) - 2
   pub = substr(pub, ind.s, ind.e)
   
-  #get rid of asterix
+  #get rid of asterix and hash
   pub = gsub("\\*", "", pub)
+  pub = gsub("\\#", "", pub)
   
   #swap out final author seperator
   pub = sub(" and ", ", ", pub)
